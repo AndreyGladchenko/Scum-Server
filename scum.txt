@@ -1,4 +1,6 @@
-#announce =Full PVP server= 176.57.160.205:28302
+#announce =\\ Welcome to BattleRoyal Server //=
 #StartTournamentMode -55449.9413 -84716.6262 5 20
+#announce =\\ Welcome to BattleRoyal Server //=
 #StartTournamentMode -4828.291 -18821.6456 5 20
+#announce =\\ Welcome to BattleRoyal Server //=
 #StartTournamentMode 23068.1856 2981.0081 5 10
