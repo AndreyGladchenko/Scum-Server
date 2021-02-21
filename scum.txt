@@ -1,28 +1,28 @@
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -55449.9413 -84716.6262 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -4828.291 -18821.6456 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode 23068.1856 2981.0081 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode 266615.241 -57516.3662 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode 137548.0319 -287436.2223 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode 49979.6064 1331.0223 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -188574.4086 79326.8319 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode 97822.3582 -208621.5539 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -214482.6414 -50485.184 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -107717.5996 3021.7767 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -123041.4926 166318.8122 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -65253.742 154207.583 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -74535.5437 51631.4106 5 20
-#announce =\\ You have 10min Left //=
+
 #StartTournamentMode -213821.4251 -220546.3659 5 20
