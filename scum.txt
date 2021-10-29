@@ -1,5 +1,9 @@
 #StartTournamentMode -55449.9413 -84716.6262 5 45
-#announce You have 10min Left
+#spawnitem BP_Weapon_MP5 1 338481.625 337027.719
+#spawnitem BP_Magazine_MP5 2 338481.625 337027.719
+#spawnitem Cal_9mm_AP 3 338481.625 337027.719
+#spawnitem BP_WeaponSights_V3_Holographic 1 338481.625 337027.719
+#spawnitem BP_MP5_Rail_Short 1 338481.625 337027.719
 #StartTournamentMode -4828.291 -18821.6456 5 45
 #announce You have 10min Left
 #StartTournamentMode 23068.1856 2981.0081 5 45
