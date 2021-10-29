@@ -4,17 +4,19 @@
 #spawnitem Cal_9mm_AP 3 Location "338186.375 336862.000 21009.445"
 #spawnitem BP_WeaponSights_V3_Holographic 1 Location "338186.375 336862.000 21009.445"
 #spawnitem BP_MP5_Rail_Short 1 Location "338186.375 336862.000 21009.445"
-#spawnitem Military_Shirt_02 1 Location "328016.125 354907.063"
-#spawnitem MilitaryPants_03 1 Location "328016.125 354907.063"
-#spawnitem Combat_Helmet_03 1 Location "328016.125 354907.063"
-#spawnItem Hiking_Boots_04 1 Location "328016.125 354907.063"
-#spawnitem Armor_Tactical_Vest_04 1 3Location "28016.125 354907.063"
-#spawnitem Backpack_02_06 1 Location "328016.125 354907.063"
-#spawnitem BP_WeaponSights_V3_Holographic 1 Location "321720.125 355507.031"
-#spawnitem WeaponScope_ACOG_01 1 Location "321720.125 355507.031"
-#spawnitem BP_Magazine_UMP45 2 Location "321720.125 355507.031"
-#spawnitem Cal_45 2 Location "321720.125 355507.031"
-#spawnitem BPC_Weapon_UMP45 1 Location "321720.125 355507.031"
+#spawnitem Military_Shirt_02 1 Location "327956.563 354822.031 21075.898"
+#spawnitem MilitaryPants_03 1 Location "327956.563 354822.031 21075.898"
+#spawnitem Combat_Helmet_03 1 Location "327956.563 354822.031 21075.898"
+#spawnItem Hiking_Boots_04 1 Location "327956.563 354822.031 21075.898"
+#spawnitem Armor_Tactical_Vest_04 1 3Location "327956.563 354822.031 21075.898"
+#spawnitem Backpack_02_06 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "321741.063 355467.969 21728.031"
+#spawnitem WeaponScope_ACOG_01 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_Magazine_UMP45 2 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_45 2 Location "321720.125 321741.063 355467.969 21728.031"
+#spawnitem BPC_Weapon_UMP45 1 Location "321741.063 355467.969 21728.031"
+
+
 #StartTournamentMode -4828.291 -18821.6456 5 45
 #announce You have 10min Left
 #StartTournamentMode 23068.1856 2981.0081 5 45
