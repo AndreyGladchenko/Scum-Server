@@ -1,9 +1,9 @@
 #StartTournamentMode -55449.9413 -84716.6262 5 45
-#spawnitem BP_Weapon_MP5 1 Location "338481.625 337027.719"
-#spawnitem BP_Magazine_MP5 2 Location "338481.625 337027.719"
-#spawnitem Cal_9mm_AP 3 Location "338481.625 337027.719"
-#spawnitem BP_WeaponSights_V3_Holographic 1 Location "338481.625 337027.719"
-#spawnitem BP_MP5_Rail_Short 1 Location "338481.625 337027.719"
+#spawnitem BP_Weapon_MP5 1 Location 338186.375 336862.000 21009.445
+#spawnitem BP_Magazine_MP5 2 Location 338186.375 336862.000 21009.445
+#spawnitem Cal_9mm_AP 3 Location 338186.375 336862.000 21009.445
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location 338186.375 336862.000 21009.445
+#spawnitem BP_MP5_Rail_Short 1 Location 338186.375 336862.000 21009.445
 #spawnitem Military_Shirt_02 1 Location "328016.125 354907.063"
 #spawnitem MilitaryPants_03 1 Location "328016.125 354907.063"
 #spawnitem Combat_Helmet_03 1 Location "328016.125 354907.063"
