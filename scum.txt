@@ -1,4 +1,4 @@
-#StartTournamentMode -55449.9413 -84716.6262 5 45
+#StartTournamentMode 325528.9542 355365.8388 5 45
 #spawnitem BP_Weapon_MP5 1 Location "338186.375 336862.000 21009.445"
 #spawnitem BP_Magazine_MP5 2 Location "338186.375 336862.000 21009.445"
 #spawnitem Cal_9mm_AP 3 Location "338186.375 336862.000 21009.445"
