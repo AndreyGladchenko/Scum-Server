@@ -1,5 +1,22 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'm Online now! Thank you all and Good Luck.
+
+
+
 #StartTournamentMode 325528.9542 355365.8388 5 45
 
 
@@ -56,7 +73,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "319342.875 369457.563 23325.773"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_Magazine_M9 2 Location "315714.438 367519.813 22034.961"
-#spawnitem Cal_9mm 1 Location "315714.438 367519.813 22034.961"
+#spawnitem Cal_9mm 2 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_Weapon_M9 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "306394.188 363557.094 21992.707"
@@ -96,7 +113,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "322484.500 350840.563 21098.471"
 #spawnitem BP_Magazine_AS_Val 2 Location "322484.500 350840.563 21098.471"
 #spawnitem Cal_9x39mm 3 Location "322484.500 350840.563 21098.471"
-#spawnitem BP_Weapon_AKS_74U 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_Weapon_AS_Val 1 Location "322484.500 350840.563 21098.471"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "326233.906 342378.469 21212.938"
 #spawnitem BP_Weapon_Block21 1 Location "326233.906 342378.469 21212.938"
 #spawnitem Cal_45_AP 2 Location "326233.906 342378.469 21212.938"
@@ -118,7 +135,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "333765.781 369257.094 21117.250"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_Magazine_M9 2 Location "334720.438 371341.719 21133.148"
-#spawnitem Cal_9mm 1 Location "334720.438 371341.719 21133.148"
+#spawnitem Cal_9mm 2 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_Weapon_M9 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "337177.750 367669.281 21097.061"
@@ -168,7 +185,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "348725.531 340286.781 21723.254"
 #spawnitem BP_Magazine_AS_Val 2 Location "348725.531 340286.781 21723.254"
 #spawnitem Cal_9x39mm 3 Location "348725.531 340286.781 21723.254"
-#spawnitem BP_Weapon_AKS_74U 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_Weapon_AS_Val 1 Location "348725.531 340286.781 21723.254"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "358273.625 339899.594 22331.586"
 #spawnitem BP_Weapon_Block21 1 Location "358273.625 339899.594 22331.586"
 #spawnitem Cal_45_AP 2 Location "358273.625 339899.594 22331.586"
@@ -190,7 +207,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "327956.563 354822.031 21075.898"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_Magazine_M9 2 Location "321741.063 355467.969 21728.031"
-#spawnitem Cal_9mm 1 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_9mm 2 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_Weapon_M9 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "325117.375 376073.688 21621.139"
@@ -254,7 +271,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "332917.938 333574.188 22111.918"
 #spawnitem BP_Magazine_AS_Val 2 Location "332917.938 333574.188 22111.918"
 #spawnitem Cal_9x39mm 3 Location "332917.938 333574.188 22111.918"
-#spawnitem BP_Weapon_AKS_74U 1 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_Weapon_AS_Val 1 Location "332917.938 333574.188 22111.918"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "328621.188 336784.719 21486.334"
 #spawnitem BP_Weapon_Block21 1 Location "328621.188 336784.719 21486.334"
@@ -288,7 +305,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "306512.406 354509.438 21914.750"
 #spawnitem BP_Magazine_M9 2 Location "306512.406 354509.438 21914.750"
-#spawnitem Cal_9mm 1 Location "306512.406 354509.438 21914.750"
+#spawnitem Cal_9mm 2 Location "306512.406 354509.438 21914.750"
 #spawnitem BP_Weapon_M9 1 Location "306512.406 354509.438 21914.750"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "306512.406 354509.438 21914.750"
 
@@ -346,7 +363,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "288597.719 371117.094 21858.340"
 #spawnitem BP_Magazine_AS_Val 2 Location "288597.719 371117.094 21858.340"
 #spawnitem Cal_9x39mm 3 Location "288597.719 371117.094 21858.340"
-#spawnitem BP_Weapon_AKS_74U 1 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_Weapon_AS_Val 1 Location "288597.719 371117.094 21858.340"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "285811.375 373225.969 22108.494"
 #spawnitem BP_Weapon_Block21 1 Location "285811.375 373225.969 22108.494"
@@ -373,7 +390,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "292772.094 392780.719 21885.215"
 #spawnitem BP_Magazine_M9 2 Location "292772.094 392780.719 21885.215"
-#spawnitem Cal_9mm 1 Location "292772.094 392780.719 21885.215"
+#spawnitem Cal_9mm 2 Location "292772.094 392780.719 21885.215"
 #spawnitem BP_Weapon_M9 1 Location "292772.094 392780.719 21885.215"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "292772.094 392780.719 21885.215"
 
@@ -443,7 +460,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "334258.688 354210.406 21049.598"
 #spawnitem BP_Magazine_AS_Val 2 Location "334258.688 354210.406 21049.598"
 #spawnitem Cal_9x39mm 3 Location "334258.688 354210.406 21049.598"
-#spawnitem BP_Weapon_AKS_74U 1 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_Weapon_AS_Val 1 Location "334258.688 354210.406 21049.598"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "318386.281 355124.281 21092.789"
 #spawnitem BP_Weapon_Block21 1 Location "318386.281 355124.281 21092.789"
@@ -477,7 +494,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "371685.000 365896.875 20323.844"
 #spawnitem BP_Magazine_M9 2 Location "371685.000 365896.875 20323.844"
-#spawnitem Cal_9mm 1 Location "371685.000 365896.875 20323.844"
+#spawnitem Cal_9mm 2 Location "371685.000 365896.875 20323.844"
 #spawnitem BP_Weapon_M9 1 Location "371685.000 365896.875 20323.844"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "371685.000 365896.875 20323.844"
 
@@ -606,7 +623,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BP_Magazine_AS_Val 2 Location "331874.094 373360.375 21865.627"
 #spawnitem Cal_9x39mm 3 Location "331874.094 373360.375 21865.627"
-#spawnitem BP_Weapon_AKS_74U 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Weapon_AS_Val 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BP_Weapon_Block21 1 Location "331874.094 373360.375 21865.627"
 #spawnitem Cal_45_AP 2 Location "331874.094 373360.375 21865.627"
@@ -628,7 +645,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "319342.875 369457.563 23325.773"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_Magazine_M9 2 Location "315714.438 367519.813 22034.961"
-#spawnitem Cal_9mm 1 Location "315714.438 367519.813 22034.961"
+#spawnitem Cal_9mm 2 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_Weapon_M9 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "306394.188 363557.094 21992.707"
@@ -668,7 +685,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "322484.500 350840.563 21098.471"
 #spawnitem BP_Magazine_AS_Val 2 Location "322484.500 350840.563 21098.471"
 #spawnitem Cal_9x39mm 3 Location "322484.500 350840.563 21098.471"
-#spawnitem BP_Weapon_AKS_74U 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_Weapon_AS_Val 1 Location "322484.500 350840.563 21098.471"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "326233.906 342378.469 21212.938"
 #spawnitem BP_Weapon_Block21 1 Location "326233.906 342378.469 21212.938"
 #spawnitem Cal_45_AP 2 Location "326233.906 342378.469 21212.938"
@@ -690,7 +707,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "333765.781 369257.094 21117.250"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_Magazine_M9 2 Location "334720.438 371341.719 21133.148"
-#spawnitem Cal_9mm 1 Location "334720.438 371341.719 21133.148"
+#spawnitem Cal_9mm 2 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_Weapon_M9 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "337177.750 367669.281 21097.061"
@@ -740,7 +757,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "348725.531 340286.781 21723.254"
 #spawnitem BP_Magazine_AS_Val 2 Location "348725.531 340286.781 21723.254"
 #spawnitem Cal_9x39mm 3 Location "348725.531 340286.781 21723.254"
-#spawnitem BP_Weapon_AKS_74U 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_Weapon_AS_Val 1 Location "348725.531 340286.781 21723.254"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "358273.625 339899.594 22331.586"
 #spawnitem BP_Weapon_Block21 1 Location "358273.625 339899.594 22331.586"
 #spawnitem Cal_45_AP 2 Location "358273.625 339899.594 22331.586"
@@ -762,7 +779,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "327956.563 354822.031 21075.898"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_Magazine_M9 2 Location "321741.063 355467.969 21728.031"
-#spawnitem Cal_9mm 1 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_9mm 2 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_Weapon_M9 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "325117.375 376073.688 21621.139"
@@ -826,7 +843,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "332917.938 333574.188 22111.918"
 #spawnitem BP_Magazine_AS_Val 2 Location "332917.938 333574.188 22111.918"
 #spawnitem Cal_9x39mm 3 Location "332917.938 333574.188 22111.918"
-#spawnitem BP_Weapon_AKS_74U 1 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_Weapon_AS_Val 1 Location "332917.938 333574.188 22111.918"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "328621.188 336784.719 21486.334"
 #spawnitem BP_Weapon_Block21 1 Location "328621.188 336784.719 21486.334"
@@ -860,7 +877,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "306512.406 354509.438 21914.750"
 #spawnitem BP_Magazine_M9 2 Location "306512.406 354509.438 21914.750"
-#spawnitem Cal_9mm 1 Location "306512.406 354509.438 21914.750"
+#spawnitem Cal_9mm 2 Location "306512.406 354509.438 21914.750"
 #spawnitem BP_Weapon_M9 1 Location "306512.406 354509.438 21914.750"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "306512.406 354509.438 21914.750"
 
@@ -918,7 +935,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "288597.719 371117.094 21858.340"
 #spawnitem BP_Magazine_AS_Val 2 Location "288597.719 371117.094 21858.340"
 #spawnitem Cal_9x39mm 3 Location "288597.719 371117.094 21858.340"
-#spawnitem BP_Weapon_AKS_74U 1 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_Weapon_AS_Val 1 Location "288597.719 371117.094 21858.340"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "285811.375 373225.969 22108.494"
 #spawnitem BP_Weapon_Block21 1 Location "285811.375 373225.969 22108.494"
@@ -945,7 +962,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "292772.094 392780.719 21885.215"
 #spawnitem BP_Magazine_M9 2 Location "292772.094 392780.719 21885.215"
-#spawnitem Cal_9mm 1 Location "292772.094 392780.719 21885.215"
+#spawnitem Cal_9mm 2 Location "292772.094 392780.719 21885.215"
 #spawnitem BP_Weapon_M9 1 Location "292772.094 392780.719 21885.215"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "292772.094 392780.719 21885.215"
 
@@ -1015,7 +1032,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "334258.688 354210.406 21049.598"
 #spawnitem BP_Magazine_AS_Val 2 Location "334258.688 354210.406 21049.598"
 #spawnitem Cal_9x39mm 3 Location "334258.688 354210.406 21049.598"
-#spawnitem BP_Weapon_AKS_74U 1 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_Weapon_AS_Val 1 Location "334258.688 354210.406 21049.598"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "318386.281 355124.281 21092.789"
 #spawnitem BP_Weapon_Block21 1 Location "318386.281 355124.281 21092.789"
@@ -1049,7 +1066,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "371685.000 365896.875 20323.844"
 #spawnitem BP_Magazine_M9 2 Location "371685.000 365896.875 20323.844"
-#spawnitem Cal_9mm 1 Location "371685.000 365896.875 20323.844"
+#spawnitem Cal_9mm 2 Location "371685.000 365896.875 20323.844"
 #spawnitem BP_Weapon_M9 1 Location "371685.000 365896.875 20323.844"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "371685.000 365896.875 20323.844"
 
@@ -1179,7 +1196,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BP_Magazine_AS_Val 2 Location "331874.094 373360.375 21865.627"
 #spawnitem Cal_9x39mm 3 Location "331874.094 373360.375 21865.627"
-#spawnitem BP_Weapon_AKS_74U 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Weapon_AS_Val 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BP_Weapon_Block21 1 Location "331874.094 373360.375 21865.627"
 #spawnitem Cal_45_AP 2 Location "331874.094 373360.375 21865.627"
@@ -1201,7 +1218,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "319342.875 369457.563 23325.773"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_Magazine_M9 2 Location "315714.438 367519.813 22034.961"
-#spawnitem Cal_9mm 1 Location "315714.438 367519.813 22034.961"
+#spawnitem Cal_9mm 2 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_Weapon_M9 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "306394.188 363557.094 21992.707"
@@ -1241,7 +1258,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "322484.500 350840.563 21098.471"
 #spawnitem BP_Magazine_AS_Val 2 Location "322484.500 350840.563 21098.471"
 #spawnitem Cal_9x39mm 3 Location "322484.500 350840.563 21098.471"
-#spawnitem BP_Weapon_AKS_74U 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_Weapon_AS_Val 1 Location "322484.500 350840.563 21098.471"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "326233.906 342378.469 21212.938"
 #spawnitem BP_Weapon_Block21 1 Location "326233.906 342378.469 21212.938"
 #spawnitem Cal_45_AP 2 Location "326233.906 342378.469 21212.938"
@@ -1263,7 +1280,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "333765.781 369257.094 21117.250"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_Magazine_M9 2 Location "334720.438 371341.719 21133.148"
-#spawnitem Cal_9mm 1 Location "334720.438 371341.719 21133.148"
+#spawnitem Cal_9mm 2 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_Weapon_M9 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "337177.750 367669.281 21097.061"
@@ -1313,7 +1330,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "348725.531 340286.781 21723.254"
 #spawnitem BP_Magazine_AS_Val 2 Location "348725.531 340286.781 21723.254"
 #spawnitem Cal_9x39mm 3 Location "348725.531 340286.781 21723.254"
-#spawnitem BP_Weapon_AKS_74U 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_Weapon_AS_Val 1 Location "348725.531 340286.781 21723.254"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "358273.625 339899.594 22331.586"
 #spawnitem BP_Weapon_Block21 1 Location "358273.625 339899.594 22331.586"
 #spawnitem Cal_45_AP 2 Location "358273.625 339899.594 22331.586"
@@ -1335,7 +1352,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "327956.563 354822.031 21075.898"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_Magazine_M9 2 Location "321741.063 355467.969 21728.031"
-#spawnitem Cal_9mm 1 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_9mm 2 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_Weapon_M9 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "325117.375 376073.688 21621.139"
@@ -1399,7 +1416,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "332917.938 333574.188 22111.918"
 #spawnitem BP_Magazine_AS_Val 2 Location "332917.938 333574.188 22111.918"
 #spawnitem Cal_9x39mm 3 Location "332917.938 333574.188 22111.918"
-#spawnitem BP_Weapon_AKS_74U 1 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_Weapon_AS_Val 1 Location "332917.938 333574.188 22111.918"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "328621.188 336784.719 21486.334"
 #spawnitem BP_Weapon_Block21 1 Location "328621.188 336784.719 21486.334"
@@ -1433,7 +1450,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "306512.406 354509.438 21914.750"
 #spawnitem BP_Magazine_M9 2 Location "306512.406 354509.438 21914.750"
-#spawnitem Cal_9mm 1 Location "306512.406 354509.438 21914.750"
+#spawnitem Cal_9mm 2 Location "306512.406 354509.438 21914.750"
 #spawnitem BP_Weapon_M9 1 Location "306512.406 354509.438 21914.750"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "306512.406 354509.438 21914.750"
 
@@ -1491,7 +1508,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "288597.719 371117.094 21858.340"
 #spawnitem BP_Magazine_AS_Val 2 Location "288597.719 371117.094 21858.340"
 #spawnitem Cal_9x39mm 3 Location "288597.719 371117.094 21858.340"
-#spawnitem BP_Weapon_AKS_74U 1 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_Weapon_AS_Val 1 Location "288597.719 371117.094 21858.340"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "285811.375 373225.969 22108.494"
 #spawnitem BP_Weapon_Block21 1 Location "285811.375 373225.969 22108.494"
@@ -1518,7 +1535,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "292772.094 392780.719 21885.215"
 #spawnitem BP_Magazine_M9 2 Location "292772.094 392780.719 21885.215"
-#spawnitem Cal_9mm 1 Location "292772.094 392780.719 21885.215"
+#spawnitem Cal_9mm 2 Location "292772.094 392780.719 21885.215"
 #spawnitem BP_Weapon_M9 1 Location "292772.094 392780.719 21885.215"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "292772.094 392780.719 21885.215"
 
@@ -1588,7 +1605,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "334258.688 354210.406 21049.598"
 #spawnitem BP_Magazine_AS_Val 2 Location "334258.688 354210.406 21049.598"
 #spawnitem Cal_9x39mm 3 Location "334258.688 354210.406 21049.598"
-#spawnitem BP_Weapon_AKS_74U 1 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_Weapon_AS_Val 1 Location "334258.688 354210.406 21049.598"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "318386.281 355124.281 21092.789"
 #spawnitem BP_Weapon_Block21 1 Location "318386.281 355124.281 21092.789"
@@ -1622,7 +1639,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "371685.000 365896.875 20323.844"
 #spawnitem BP_Magazine_M9 2 Location "371685.000 365896.875 20323.844"
-#spawnitem Cal_9mm 1 Location "371685.000 365896.875 20323.844"
+#spawnitem Cal_9mm 2 Location "371685.000 365896.875 20323.844"
 #spawnitem BP_Weapon_M9 1 Location "371685.000 365896.875 20323.844"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "371685.000 365896.875 20323.844"
 
@@ -1752,7 +1769,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BP_Magazine_AS_Val 2 Location "331874.094 373360.375 21865.627"
 #spawnitem Cal_9x39mm 3 Location "331874.094 373360.375 21865.627"
-#spawnitem BP_Weapon_AKS_74U 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Weapon_AS_Val 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "331874.094 373360.375 21865.627"
 #spawnitem BP_Weapon_Block21 1 Location "331874.094 373360.375 21865.627"
 #spawnitem Cal_45_AP 2 Location "331874.094 373360.375 21865.627"
@@ -1774,7 +1791,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "319342.875 369457.563 23325.773"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_Magazine_M9 2 Location "315714.438 367519.813 22034.961"
-#spawnitem Cal_9mm 1 Location "315714.438 367519.813 22034.961"
+#spawnitem Cal_9mm 2 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_Weapon_M9 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "315714.438 367519.813 22034.961"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "306394.188 363557.094 21992.707"
@@ -1814,7 +1831,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "322484.500 350840.563 21098.471"
 #spawnitem BP_Magazine_AS_Val 2 Location "322484.500 350840.563 21098.471"
 #spawnitem Cal_9x39mm 3 Location "322484.500 350840.563 21098.471"
-#spawnitem BP_Weapon_AKS_74U 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_Weapon_AS_Val 1 Location "322484.500 350840.563 21098.471"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "326233.906 342378.469 21212.938"
 #spawnitem BP_Weapon_Block21 1 Location "326233.906 342378.469 21212.938"
 #spawnitem Cal_45_AP 2 Location "326233.906 342378.469 21212.938"
@@ -1836,7 +1853,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "333765.781 369257.094 21117.250"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_Magazine_M9 2 Location "334720.438 371341.719 21133.148"
-#spawnitem Cal_9mm 1 Location "334720.438 371341.719 21133.148"
+#spawnitem Cal_9mm 2 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_Weapon_M9 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "334720.438 371341.719 21133.148"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "337177.750 367669.281 21097.061"
@@ -1886,7 +1903,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "348725.531 340286.781 21723.254"
 #spawnitem BP_Magazine_AS_Val 2 Location "348725.531 340286.781 21723.254"
 #spawnitem Cal_9x39mm 3 Location "348725.531 340286.781 21723.254"
-#spawnitem BP_Weapon_AKS_74U 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_Weapon_AS_Val 1 Location "348725.531 340286.781 21723.254"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "358273.625 339899.594 22331.586"
 #spawnitem BP_Weapon_Block21 1 Location "358273.625 339899.594 22331.586"
 #spawnitem Cal_45_AP 2 Location "358273.625 339899.594 22331.586"
@@ -1908,7 +1925,7 @@
 #spawnitem BP_Weapon_M16A4 1 Location "327956.563 354822.031 21075.898"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_Magazine_M9 2 Location "321741.063 355467.969 21728.031"
-#spawnitem Cal_9mm 1 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_9mm 2 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_Weapon_M9 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "321741.063 355467.969 21728.031"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "325117.375 376073.688 21621.139"
@@ -1972,7 +1989,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "332917.938 333574.188 22111.918"
 #spawnitem BP_Magazine_AS_Val 2 Location "332917.938 333574.188 22111.918"
 #spawnitem Cal_9x39mm 3 Location "332917.938 333574.188 22111.918"
-#spawnitem BP_Weapon_AKS_74U 1 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_Weapon_AS_Val 1 Location "332917.938 333574.188 22111.918"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "328621.188 336784.719 21486.334"
 #spawnitem BP_Weapon_Block21 1 Location "328621.188 336784.719 21486.334"
@@ -2006,7 +2023,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "306512.406 354509.438 21914.750"
 #spawnitem BP_Magazine_M9 2 Location "306512.406 354509.438 21914.750"
-#spawnitem Cal_9mm 1 Location "306512.406 354509.438 21914.750"
+#spawnitem Cal_9mm 2 Location "306512.406 354509.438 21914.750"
 #spawnitem BP_Weapon_M9 1 Location "306512.406 354509.438 21914.750"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "306512.406 354509.438 21914.750"
 
@@ -2064,7 +2081,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "288597.719 371117.094 21858.340"
 #spawnitem BP_Magazine_AS_Val 2 Location "288597.719 371117.094 21858.340"
 #spawnitem Cal_9x39mm 3 Location "288597.719 371117.094 21858.340"
-#spawnitem BP_Weapon_AKS_74U 1 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_Weapon_AS_Val 1 Location "288597.719 371117.094 21858.340"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "285811.375 373225.969 22108.494"
 #spawnitem BP_Weapon_Block21 1 Location "285811.375 373225.969 22108.494"
@@ -2091,7 +2108,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "292772.094 392780.719 21885.215"
 #spawnitem BP_Magazine_M9 2 Location "292772.094 392780.719 21885.215"
-#spawnitem Cal_9mm 1 Location "292772.094 392780.719 21885.215"
+#spawnitem Cal_9mm 2 Location "292772.094 392780.719 21885.215"
 #spawnitem BP_Weapon_M9 1 Location "292772.094 392780.719 21885.215"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "292772.094 392780.719 21885.215"
 
@@ -2161,7 +2178,7 @@
 #spawnitem BP_ScopeRail_AK47 1 Location "334258.688 354210.406 21049.598"
 #spawnitem BP_Magazine_AS_Val 2 Location "334258.688 354210.406 21049.598"
 #spawnitem Cal_9x39mm 3 Location "334258.688 354210.406 21049.598"
-#spawnitem BP_Weapon_AKS_74U 1 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_Weapon_AS_Val 1 Location "334258.688 354210.406 21049.598"
 
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "318386.281 355124.281 21092.789"
 #spawnitem BP_Weapon_Block21 1 Location "318386.281 355124.281 21092.789"
@@ -2195,7 +2212,7 @@
 
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "371685.000 365896.875 20323.844"
 #spawnitem BP_Magazine_M9 2 Location "371685.000 365896.875 20323.844"
-#spawnitem Cal_9mm 1 Location "371685.000 365896.875 20323.844"
+#spawnitem Cal_9mm 2 Location "371685.000 365896.875 20323.844"
 #spawnitem BP_Weapon_M9 1 Location "371685.000 365896.875 20323.844"
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "371685.000 365896.875 20323.844"
 
@@ -2295,3 +2312,1158 @@
 
 
 .
+
+
+#StartTournamentMode 325528.9542 355365.8388 5 45
+
+
+#spawnitem BP_Weapon_MP5 1 Location "338186.375 336862.000 21009.445"
+#spawnitem BP_Magazine_MP5 2 Location "338186.375 336862.000 21009.445"
+#spawnitem Cal_9mm_AP 3 Location "338186.375 336862.000 21009.445"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "338186.375 336862.000 21009.445"
+#spawnitem BP_MP5_Rail_Short 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Military_Shirt_02 1 Location "327956.563 354822.031 21075.898"
+#spawnitem MilitaryPants_03 1 Location "327956.563 354822.031 21075.898"
+#spawnitem Combat_Helmet_03 1 Location "327956.563 354822.031 21075.898"
+#spawnItem Hiking_Boots_04 1 Location "327956.563 354822.031 21075.898"
+#spawnitem Armor_Tactical_Vest_04 1 Location "327956.563 354822.031 21075.898"
+#spawnitem Backpack_02_06 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "321741.063 355467.969 21728.031"
+#spawnitem WeaponScope_ACOG_01 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_Magazine_UMP45 2 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_45 2 Location "321741.063 355467.969 21728.031"
+#spawnitem BPC_Weapon_UMP45 1 Location "321741.063 355467.969 21728.031"
+#spawnitem 12_Gauge_Slug 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BPC_Weapon_SDASS 1 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_Magazine_M1911 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "325117.375 376073.688 21621.139"
+#spawnitem Cal_45 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_Weapon_AKS_74U 1 Location "330455.281 378127.344 21713.652"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "330455.281 378127.344 21713.652"
+#spawnitem BP_ScopeRail_AK47 1 Location "330455.281 378127.344 21713.652"
+#spawnitem BP_Magazine_AKS_74U 2 Location "330455.281 378127.344 21713.652"
+#spawnitem Cal_5_45x39mm 2 Location "330455.281 378127.344 21713.652"
+#spawnitem WeaponScope_ACOG_01 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_ScopeRail_AK47 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Magazine_AS_Val 2 Location "331874.094 373360.375 21865.627"
+#spawnitem Cal_9x39mm 3 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Weapon_AKS_74U 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Weapon_Block21 1 Location "331874.094 373360.375 21865.627"
+#spawnitem Cal_45_AP 2 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Magazine_Block21 2 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "323772.781 371759.531 22369.895"
+#spawnitem BP_DW715_Rail 1 Location "323772.781 371759.531 22369.895"
+#spawnitem Cal_44_Magnum_AP 2 Location "323772.781 371759.531 22369.895"
+#spawnitem BP_Weapon_Block21 1 Location "323772.781 371759.531 22369.895"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "323772.781 371759.531 22369.895"
+#spawnitem WeaponScope_Dragunov 1 Location "319814.406 366632.719 23342.297"
+#spawnitem BP_ImprovisedRail_Side 1 Location "319814.406 366632.719 23342.297"
+#spawnitem BP_M1_Clip 2 Location "319814.406 366632.719 23342.297"
+#spawnitem Cal_30-06_AP 2 Location "319814.406 366632.719 23342.297"
+#spawnitem BP_Weapon_M1_Garand 1 Location "319814.406 366632.719 23342.297"
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "319342.875 369457.563 23325.773"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "319342.875 369457.563 23325.773"
+#spawnitem BP_Magazine_M16 2 Location "319342.875 369457.563 23325.773"
+#spawnitem Cal_5_56x45mm 2 Location "319342.875 369457.563 23325.773"
+#spawnitem BP_Weapon_M16A4 1 Location "319342.875 369457.563 23325.773"
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "315714.438 367519.813 22034.961"
+#spawnitem BP_Magazine_M9 2 Location "315714.438 367519.813 22034.961"
+#spawnitem Cal_9mm 2 Location "315714.438 367519.813 22034.961"
+#spawnitem BP_Weapon_M9 1 Location "315714.438 367519.813 22034.961"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "315714.438 367519.813 22034.961"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_ScopeRail_AK47 1 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_Magazine_AK47 2 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_M70_Bayonet 1 Location "306394.188 363557.094 21992.707"
+#spawnitem Cal_7_62x39mm 2 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_Weapon_AK47 1 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_Weapon_MP5 1 Location "306235.406 362729.563 21398.424"
+#spawnitem BP_Magazine_MP5 2 Location "306235.406 362729.563 21398.424"
+#spawnitem Cal_9mm_AP 3 Location "306235.406 362729.563 21398.424"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "306235.406 362729.563 21398.424"
+#spawnitem BP_MP5_Rail_Short 1 Location "306235.406 362729.563 21398.424"
+#spawnitem Military_Shirt_02 1 Location "305727.906 354940.219 21419.924"
+#spawnitem MilitaryPants_03 1 Location "305727.906 354940.219 21419.924"
+#spawnitem Combat_Helmet_03 1 Location "305727.906 354940.219 21419.924"
+#spawnItem Hiking_Boots_04 1 Location "305727.906 354940.219 21419.924"
+#spawnitem Armor_Tactical_Vest_04 1 Location "305727.906 354940.219 21419.924"
+#spawnitem Backpack_02_06 1 Location "314420.719 352656.875 21389.691"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "314420.719 352656.875 21389.691"
+#spawnitem WeaponScope_ACOG_01 1 Location "314420.719 352656.875 21389.691"
+#spawnitem BP_Magazine_UMP45 2 Location "314420.719 352656.875 21389.691"
+#spawnitem Cal_45 2 Location "314420.719 352656.875 21389.691"
+#spawnitem BPC_Weapon_UMP45 1 Location "314420.719 352656.875 21389.691"
+#spawnitem 12_Gauge_Slug 2 Location "305212.125 343946.938 21448.967"
+#spawnitem BPC_Weapon_SDASS 1 Location "305212.125 343946.938 21448.967"
+#spawnitem BP_Magazine_M1911 2 Location "305212.125 343946.938 21448.967"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "305212.125 343946.938 21448.967"
+#spawnitem Cal_45 2 Location "305212.125 343946.938 21448.967"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "305212.125 343946.938 21448.967"
+#spawnitem BP_Weapon_AKS_74U 1 Location "312165.844 342298.688 22133.533"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "312165.844 342298.688 22133.533"
+#spawnitem BP_ScopeRail_AK47 1 Location "312165.844 342298.688 22133.533"
+#spawnitem BP_Magazine_AKS_74U 2 Location "312165.844 342298.688 22133.533"
+#spawnitem Cal_5_45x39mm 2 Location "312165.844 342298.688 22133.533"
+#spawnitem WeaponScope_ACOG_01 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_ScopeRail_AK47 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_Magazine_AS_Val 2 Location "322484.500 350840.563 21098.471"
+#spawnitem Cal_9x39mm 3 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_Weapon_AS_Val 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "326233.906 342378.469 21212.938"
+#spawnitem BP_Weapon_Block21 1 Location "326233.906 342378.469 21212.938"
+#spawnitem Cal_45_AP 2 Location "326233.906 342378.469 21212.938"
+#spawnitem BP_Magazine_Block21 2 Location "326233.906 342378.469 21212.938"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "325851.406 357394.281 21058.225"
+#spawnitem BP_DW715_Rail 1 Location "325851.406 357394.281 21058.225"
+#spawnitem Cal_44_Magnum_AP 2 Location "325851.406 357394.281 21058.225"
+#spawnitem BP_Weapon_Block21 1 Location "325851.406 357394.281 21058.225"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "325851.406 357394.281 21058.225"
+#spawnitem WeaponScope_Dragunov 1 Location "330328.750 360446.219 21061.158"
+#spawnitem BP_ImprovisedRail_Side 1 Location "330328.750 360446.219 21061.158"
+#spawnitem BP_M1_Clip 2 Location "330328.750 360446.219 21061.158"
+#spawnitem Cal_30-06_AP 2 Location "330328.750 360446.219 21061.158"
+#spawnitem BP_Weapon_M1_Garand 1 Location "330328.750 360446.219 21061.158"
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "333765.781 369257.094 21117.250"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "333765.781 369257.094 21117.250"
+#spawnitem BP_Magazine_M16 2 Location "333765.781 369257.094 21117.250"
+#spawnitem Cal_5_56x45mm 2 Location "333765.781 369257.094 21117.250"
+#spawnitem BP_Weapon_M16A4 1 Location "333765.781 369257.094 21117.250"
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "334720.438 371341.719 21133.148"
+#spawnitem BP_Magazine_M9 2 Location "334720.438 371341.719 21133.148"
+#spawnitem Cal_9mm 2 Location "334720.438 371341.719 21133.148"
+#spawnitem BP_Weapon_M9 1 Location "334720.438 371341.719 21133.148"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "334720.438 371341.719 21133.148"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "337177.750 367669.281 21097.061"
+#spawnitem BP_ScopeRail_AK47 1 Location "337177.750 367669.281 21097.061"
+#spawnitem BP_Magazine_AK47 2 Location "337177.750 367669.281 21097.061"
+#spawnitem BP_M70_Bayonet 1 Location "337177.750 367669.281 21097.061"
+#spawnitem Cal_7_62x39mm 2 Location "337177.750 367669.281 21097.061"
+#spawnitem BP_Weapon_AK47 1 Location "337177.750 367669.281 21097.061"
+#spawnitem Military_Shirt_01 1 Location "345340.094 358916.750 20999.684"
+#spawnitem MilitaryPants_02 1 Location "345340.094 358916.750 20999.684"
+#spawnitem Military_Helmet_08 1 Location "345340.094 358916.750 20999.684"
+#spawnitem Backpack_02_03 1 Location "345340.094 358916.750 20999.684"
+#spawnitem Bulletproof_Vest_05 1 Location "345340.094 358916.750 20999.684"
+#spawnitem Military_Shirt_04 1 Location "341090.813 354734.781 21176.004"
+#spawnitem MilitaryPants_05 1 Location "341090.813 354734.781 21176.004"
+#spawnitem Military_Helmet_03 1 Location "341090.813 354734.781 21176.004"
+#spawnitem Backpack_02_06 1 Location "341090.813 354734.781 21176.004"
+#spawnitem Bulletproof_Vest_01 1 Location "341090.813 354734.781 21176.004"
+#spawnitem BP_Weapon_MP5 1 Location "338963.188 356930.469 22219.053"
+#spawnitem BP_Magazine_MP5 2 Location "338963.188 356930.469 22219.053"
+#spawnitem Cal_9mm_AP 3 Location "338963.188 356930.469 22219.053"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "338963.188 356930.469 22219.053"
+#spawnitem BP_MP5_Rail_Short 1 Location "338963.188 356930.469 22219.053"
+#spawnitem Military_Shirt_02 1 Location "342171.094 353885.313 22188.053"
+#spawnitem MilitaryPants_03 1 Location "342171.094 353885.313 22188.053"
+#spawnitem Combat_Helmet_03 1 Location "342171.094 353885.313 22188.053"
+#spawnItem Hiking_Boots_04 1 Location "342171.094 353885.313 22188.053"
+#spawnitem Armor_Tactical_Vest_04 1 Location "342171.094 353885.313 22188.053"
+#spawnitem Backpack_02_06 1 Location "301181.500 358977.094 22855.414"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "301181.500 358977.094 22855.414"
+#spawnitem WeaponScope_ACOG_01 1 Location "301181.500 358977.094 22855.414"
+#spawnitem BP_Magazine_UMP45 2 Location "301181.500 358977.094 22855.414"
+#spawnitem Cal_45 2 Location "301181.500 358977.094 22855.414"
+#spawnitem BPC_Weapon_UMP45 1 Location "301181.500 358977.094 22855.414"
+#spawnitem 12_Gauge_Slug 2 Location "331959.219 348434.063 21060.369"
+#spawnitem BPC_Weapon_SDASS 1 Location "331959.219 348434.063 21060.369"
+#spawnitem BP_Magazine_M1911 2 Location "315714.438 367519.813 22034.961"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "315714.438 367519.813 22034.961"
+#spawnitem Cal_45 2 Location "315714.438 367519.813 22034.961"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "315714.438 367519.813 22034.961"
+#spawnitem BP_Weapon_AKS_74U 1 Location "341124.000 344280.000 21074.826"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "341124.000 344280.000 21074.826"
+#spawnitem BP_ScopeRail_AK47 1 Location "341124.000 344280.000 21074.826"
+#spawnitem BP_Magazine_AKS_74U 2 Location "341124.000 344280.000 21074.826"
+#spawnitem Cal_5_45x39mm 2 Location "341124.000 344280.000 21074.826"
+#spawnitem WeaponScope_ACOG_01 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_ScopeRail_AK47 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_Magazine_AS_Val 2 Location "348725.531 340286.781 21723.254"
+#spawnitem Cal_9x39mm 3 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_Weapon_AS_Val 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "358273.625 339899.594 22331.586"
+#spawnitem BP_Weapon_Block21 1 Location "358273.625 339899.594 22331.586"
+#spawnitem Cal_45_AP 2 Location "358273.625 339899.594 22331.586"
+#spawnitem BP_Magazine_Block21 2 Location "358273.625 339899.594 22331.586"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "355477.969 332900.594 22220.025"
+#spawnitem BP_DW715_Rail 1 Location "355477.969 332900.594 22220.025"
+#spawnitem Cal_44_Magnum_AP 2 Location "355477.969 332900.594 22220.025"
+#spawnitem BP_Weapon_Block21 1 Location "355477.969 332900.594 22220.025"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "355477.969 332900.594 22220.025"
+#spawnitem WeaponScope_Dragunov 1 Location "346829.938 327580.688 21711.949"
+#spawnitem BP_ImprovisedRail_Side 1 Location "346829.938 327580.688 21711.949"
+#spawnitem BP_M1_Clip 2 Location "346829.938 327580.688 21711.949"
+#spawnitem Cal_30-06_AP 2 Location "346829.938 327580.688 21711.949"
+#spawnitem BP_Weapon_M1_Garand 1 Location "346829.938 327580.688 21711.949"
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_Magazine_M16 2 Location "327956.563 354822.031 21075.898"
+#spawnitem Cal_5_56x45mm 2 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_Weapon_M16A4 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_Magazine_M9 2 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_9mm 2 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_Weapon_M9 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_ScopeRail_AK47 1 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_Magazine_AK47 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_M70_Bayonet 1 Location "325117.375 376073.688 21621.139"
+#spawnitem Cal_7_62x39mm 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_Weapon_AK47 1 Location "325117.375 376073.688 21621.139"
+#spawnitem Military_Shirt_01 1 Location "338186.375 336862.000 21009.445"
+#spawnitem MilitaryPants_02 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Military_Helmet_08 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Backpack_02_03 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Bulletproof_Vest_05 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Military_Shirt_04 1 Location "331874.094 373360.375 21865.627"
+#spawnitem MilitaryPants_05 1 Location "331874.094 373360.375 21865.627"
+#spawnitem Military_Helmet_03 1 Location "331874.094 373360.375 21865.627"
+#spawnitem Backpack_02_06 1 Location "331874.094 373360.375 21865.627"
+#spawnitem Bulletproof_Vest_01 1 Location "331874.094 373360.375 21865.627"
+
+#spawnitem BP_Weapon_MP5 1 Location "351204.750 366453.813 20682.857"
+#spawnitem BP_Magazine_MP5 2 Location "351204.750 366453.813 20682.857"
+#spawnitem Cal_9mm_AP 3 Location "351204.750 366453.813 20682.857"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "351204.750 366453.813 20682.857"
+#spawnitem BP_MP5_Rail_Short 1 Location "351204.750 366453.813 20682.857"
+
+#spawnitem Military_Shirt_02 1 Location "354543.313 360048.781 21430.932"
+#spawnitem MilitaryPants_03 1 Location "354543.313 360048.781 21430.932"
+#spawnitem Combat_Helmet_03 1 Location "354543.313 360048.781 21430.932"
+#spawnItem Hiking_Boots_04 1 Location "354543.313 360048.781 21430.932"
+#spawnitem Armor_Tactical_Vest_04 1 Location "354543.313 360048.781 21430.932"
+#spawnitem Backpack_02_06 1 Location "354543.313 360048.781 21430.932"
+
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "352042.563 351739.938 21624.404"
+#spawnitem WeaponScope_ACOG_01 1 Location "352042.563 351739.938 21624.404"
+#spawnitem BP_Magazine_UMP45 2 Location "352042.563 351739.938 21624.404"
+#spawnitem Cal_45 2 Location "352042.563 351739.938 21624.404"
+#spawnitem BPC_Weapon_UMP45 1 Location "352042.563 351739.938 21624.404"
+
+#spawnitem 12_Gauge_Slug 2 Location "360169.719 346304.406 21675.463"
+#spawnitem BPC_Weapon_SDASS 1 Location "360169.719 346304.406 21675.463"
+
+
+#spawnitem BP_Magazine_M1911 2 Location "354546.500 350189.719 21616.326"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "354546.500 350189.719 21616.326"
+#spawnitem Cal_45 2 Location "354546.500 350189.719 21616.326"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "354546.500 350189.719 21616.326"
+
+#spawnitem BP_Weapon_AKS_74U 1 Location "341429.656 327625.438 20873.559"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "341429.656 327625.438 20873.559"
+#spawnitem BP_ScopeRail_AK47 1 Location "341429.656 327625.438 20873.559"
+#spawnitem BP_Magazine_AKS_74U 2 Location "341429.656 327625.438 20873.559"
+#spawnitem Cal_5_45x39mm 2 Location "341429.656 327625.438 20873.559"
+
+#spawnitem Military_Shirt_04 1 Location "334146.031 331251.813 20887.438"
+#spawnitem MilitaryPants_05 1 Location "334146.031 331251.813 20887.438"
+#spawnitem Military_Helmet_03 1 Location "334146.031 331251.813 20887.438"
+#spawnitem Backpack_02_06 1 Location "334146.031 331251.813 20887.438"
+#spawnitem Bulletproof_Vest_01 1 Location "334146.031 331251.813 20887.438"
+
+#spawnitem WeaponScope_ACOG_01 1 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_ScopeRail_AK47 1 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_Magazine_AS_Val 2 Location "332917.938 333574.188 22111.918"
+#spawnitem Cal_9x39mm 3 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_Weapon_AS_Val 1 Location "332917.938 333574.188 22111.918"
+
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "328621.188 336784.719 21486.334"
+#spawnitem BP_Weapon_Block21 1 Location "328621.188 336784.719 21486.334"
+#spawnitem Cal_45_AP 2 Location "328621.188 336784.719 21486.334"
+#spawnitem BP_Magazine_Block21 2 Location "328621.188 336784.719 21486.334"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "299809.875 324627.531 22457.715"
+#spawnitem BP_DW715_Rail 1 Location "299809.875 324627.531 22457.715"
+#spawnitem Cal_44_Magnum_AP 2 Location "299809.875 324627.531 22457.715"
+#spawnitem BPC_Weapon_Judge44 1 Location "299809.875 324627.531 22457.715"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "299809.875 324627.531 22457.715"
+
+#spawnitem WeaponScope_Dragunov 1 Location "284878.250 332845.000 22559.807"
+#spawnitem BP_ImprovisedRail_Side 1 Location "284878.250 332845.000 22559.807"
+#spawnitem BP_M1_Clip 2 Location "284878.250 332845.000 22559.807"
+#spawnitem Cal_30-06_AP 2 Location "284878.250 332845.000 22559.807"
+#spawnitem BP_Weapon_M1_Garand 1 Location "284878.250 332845.000 22559.807"
+
+#spawnitem Military_Shirt_04 1 Location "282512.563 343371.375 22579.795"
+#spawnitem MilitaryPants_05 1 Location "282512.563 343371.375 22579.795"
+#spawnitem Military_Helmet_03 1 Location "282512.563 343371.375 22579.795"
+#spawnitem Backpack_02_06 1 Location "282512.563 343371.375 22579.795"
+#spawnitem Bulletproof_Vest_01 1 Location "282512.563 343371.375 22579.795"
+
+
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "289382.500 344913.188 22300.375"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "289382.500 344913.188 22300.375"
+#spawnitem BP_Magazine_M16 2 Location "289382.500 344913.188 22300.375"
+#spawnitem Cal_5_56x45mm 2 Location "289382.500 344913.188 22300.375"
+#spawnitem BP_Weapon_M16A4 1 Location "289382.500 344913.188 22300.375"
+
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "306512.406 354509.438 21914.750"
+#spawnitem BP_Magazine_M9 2 Location "306512.406 354509.438 21914.750"
+#spawnitem Cal_9mm 2 Location "306512.406 354509.438 21914.750"
+#spawnitem BP_Weapon_M9 1 Location "306512.406 354509.438 21914.750"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "306512.406 354509.438 21914.750"
+
+
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "313300.125 348133.000 21680.756"
+#spawnitem BP_ScopeRail_AK47 1 Location "313300.125 348133.000 21680.756"
+#spawnitem BP_Magazine_AK47 2 Location "313300.125 348133.000 21680.756"
+#spawnitem BP_M70_Bayonet 1 Location "313300.125 348133.000 21680.756"
+#spawnitem Cal_7_62x39mm 2 Location "313300.125 348133.000 21680.756"
+#spawnitem BP_Weapon_AK47 1 Location "313300.125 348133.000 21680.756"
+
+#spawnitem BP_Weapon_MP5 1 Location "315453.750 353282.969 21311.977"
+#spawnitem BP_Magazine_MP5 2 Location "315453.750 353282.969 21311.977"
+#spawnitem Cal_9mm_AP 3 Location "315453.750 353282.969 21311.977"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "315453.750 353282.969 21311.977"
+#spawnitem BP_MP5_Rail_Short 1 Location "315453.750 353282.969 21311.977"
+
+#spawnitem Military_Shirt_02 1 Location "315474.125 365838.563 21188.996"
+#spawnitem MilitaryPants_03 1 Location "315474.125 365838.563 21188.996"
+#spawnitem Combat_Helmet_03 1 Location "315474.125 365838.563 21188.996"
+#spawnItem Hiking_Boots_04 1 Location "315474.125 365838.563 21188.996"
+#spawnitem Armor_Tactical_Vest_04 1 Location "315474.125 365838.563 21188.996"
+
+#spawnitem Backpack_02_06 1 Location "323349.313 362136.500 21243.338"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "323349.313 362136.500 21243.338"
+#spawnitem WeaponScope_ACOG_01 1 Location "323349.313 362136.500 21243.338"
+#spawnitem BP_Magazine_UMP45 2 Location "323349.313 362136.500 21243.338"
+#spawnitem Cal_45 2 Location "323349.313 362136.500 21243.338"
+#spawnitem BPC_Weapon_UMP45 1 Location "323349.313 362136.500 21243.338"
+
+#spawnitem 12_Gauge_Slug 2 Location "324357.625 365654.469 21284.717"
+#spawnitem BPC_Weapon_SDASS 1 Location "324357.625 365654.469 21284.717"
+
+
+#spawnitem BP_Magazine_M1911 2 Location "306007.938 366695.375 21640.223"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "306007.938 366695.375 21640.223"
+#spawnitem Cal_45 2 Location "306007.938 366695.375 21640.223"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "306007.938 366695.375 21640.223"
+
+#spawnitem BP_Weapon_AKS_74U 1 Location "300143.219 367595.625 21877.178"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "300143.219 367595.625 21877.178"
+#spawnitem BP_ScopeRail_AK47 1 Location "300143.219 367595.625 21877.178"
+#spawnitem BP_Magazine_AKS_74U 2 Location "300143.219 367595.625 21877.178"
+#spawnitem Cal_5_45x39mm 2 Location "300143.219 367595.625 21877.178"
+
+#spawnitem Military_Shirt_04 1 Location "295089.719 367009.219 21905.352"
+#spawnitem MilitaryPants_05 1 Location "295089.719 367009.219 21905.352"
+#spawnitem Military_Helmet_03 1 Location "295089.719 367009.219 21905.352"
+#spawnitem Backpack_02_06 1 Location "295089.719 367009.219 21905.352"
+#spawnitem Bulletproof_Vest_01 1 Location "295089.719 367009.219 21905.352"
+
+
+#spawnitem WeaponScope_ACOG_01 1 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_ScopeRail_AK47 1 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_Magazine_AS_Val 2 Location "288597.719 371117.094 21858.340"
+#spawnitem Cal_9x39mm 3 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_Weapon_AS_Val 1 Location "288597.719 371117.094 21858.340"
+
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "285811.375 373225.969 22108.494"
+#spawnitem BP_Weapon_Block21 1 Location "285811.375 373225.969 22108.494"
+#spawnitem Cal_45_AP 2 Location "285811.375 373225.969 22108.494"
+#spawnitem BP_Magazine_Block21 2 Location "285811.375 373225.969 22108.494"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "283045.438 375975.125 22105.939"
+#spawnitem BP_DW715_Rail 1 Location "283045.438 375975.125 22105.939"
+#spawnitem Cal_44_Magnum_AP 2 Location "283045.438 375975.125 22105.939"
+#spawnitem BP_Weapon_Block21 1 Location "283045.438 375975.125 22105.939"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "283045.438 375975.125 22105.939"
+
+#spawnitem WeaponScope_Dragunov 1 Location "284082.344 381483.500 21972.377"
+#spawnitem BP_ImprovisedRail_Side 1 Location "284082.344 381483.500 21972.377"
+#spawnitem BP_M1_Clip 2 Location "284082.344 381483.500 21972.377"
+#spawnitem Cal_30-06_AP 2 Location "284082.344 381483.500 21972.377"
+#spawnitem BP_Weapon_M1_Garand 1 Location "284082.344 381483.500 21972.377"
+
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "290670.719 380521.156 21894.514"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "290670.719 380521.156 21894.514"
+#spawnitem BP_Magazine_M16 2 Location "290670.719 380521.156 21894.514"
+#spawnitem Cal_5_56x45mm 2 Location "290670.719 380521.156 21894.514"
+#spawnitem BP_Weapon_M16A4 1 Location "290670.719 380521.156 21894.514"
+
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "292772.094 392780.719 21885.215"
+#spawnitem BP_Magazine_M9 2 Location "292772.094 392780.719 21885.215"
+#spawnitem Cal_9mm 2 Location "292772.094 392780.719 21885.215"
+#spawnitem BP_Weapon_M9 1 Location "292772.094 392780.719 21885.215"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "292772.094 392780.719 21885.215"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "300697.281 408149.875 21895.859"
+#spawnitem BP_ScopeRail_AK47 1 Location "300697.281 408149.875 21895.859"
+#spawnitem BP_Magazine_AK47 2 Location "300697.281 408149.875 21895.859"
+#spawnitem BP_M70_Bayonet 1 Location "300697.281 408149.875 21895.859"
+#spawnitem Cal_7_62x39mm 2 Location "300697.281 408149.875 21895.859"
+#spawnitem BP_Weapon_AK47 1 Location "300697.281 408149.875 21895.859"
+
+#spawnitem Military_Shirt_01 1 Location "306803.969 407172.625 21949.418"
+#spawnitem MilitaryPants_02 1 Location "306803.969 407172.625 21949.418"
+#spawnitem Military_Helmet_08 1 Location "306803.969 407172.625 21949.418"
+#spawnitem Backpack_02_03 1 Location "306803.969 407172.625 21949.418"
+#spawnitem Bulletproof_Vest_05 1 Location "306803.969 407172.625 21949.418"
+
+#spawnitem Military_Shirt_04 1 Location "313053.969 398093.438 21178.000"
+#spawnitem MilitaryPants_05 1 Location "313053.969 398093.438 21178.000"
+#spawnitem Military_Helmet_03 1 Location "313053.969 398093.438 21178.000"
+#spawnitem Backpack_02_06 1 Location "313053.969 398093.438 21178.000"
+#spawnitem Bulletproof_Vest_01 1 Location "313053.969 398093.438 21178.000"
+
+
+
+#spawnitem BP_Weapon_MP5 1 Location "323154.125 393463.156 21455.693"
+#spawnitem BP_Magazine_MP5 2 Location "323154.125 393463.156 21455.693"
+#spawnitem Cal_9mm_AP 3 Location "323154.125 393463.156 21455.693"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "323154.125 393463.156 21455.693"
+#spawnitem BP_MP5_Rail_Short 1 Location "323154.125 393463.156 21455.693"
+
+#spawnitem Military_Shirt_02 1 Location "334634.031 395711.719 20622.814"
+#spawnitem MilitaryPants_03 1 Location "334634.031 395711.719 20622.814"
+#spawnitem Combat_Helmet_03 1 Location "334634.031 395711.719 20622.814"
+#spawnItem Hiking_Boots_04 1 Location "334634.031 395711.719 20622.814"
+#spawnitem Armor_Tactical_Vest_04 1 Location "334634.031 395711.719 20622.814"
+
+#spawnitem Backpack_02_06 1 Location "346615.313 395557.563 20656.113"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "346615.313 395557.563 20656.113"
+#spawnitem WeaponScope_ACOG_01 1 Location "346615.313 395557.563 20656.113"
+#spawnitem BP_Magazine_UMP45 2 Location "346615.313 395557.563 20656.113"
+#spawnitem Cal_45 2 Location "346615.313 395557.563 20656.113"
+#spawnitem BPC_Weapon_UMP45 1 Location "346615.313 395557.563 20656.113"
+
+#spawnitem 12_Gauge_Slug 2 Location "348207.563 384747.969 20777.633"
+#spawnitem BPC_Weapon_SDASS 1 Location "348207.563 384747.969 20777.633"
+
+
+#spawnitem BP_Magazine_M1911 2 Location "338489.625 375569.813 21123.219"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "338489.625 375569.813 21123.219"
+#spawnitem Cal_45 2 Location "338489.625 375569.813 21123.219"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "338489.625 375569.813 21123.219"
+
+#spawnitem BP_Weapon_AKS_74U 1 Location "334771.938 371228.781 21091.406"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "334771.938 371228.781 21091.406"
+#spawnitem BP_ScopeRail_AK47 1 Location "334771.938 371228.781 21091.406"
+#spawnitem BP_Magazine_AKS_74U 2 Location "334771.938 371228.781 21091.406"
+#spawnitem Cal_5_45x39mm 2 Location "334771.938 371228.781 21091.406"
+
+#spawnitem Military_Shirt_01 1 Location "339230.875 363356.531 21717.031"
+#spawnitem MilitaryPants_02 1 Location "339230.875 363356.531 21717.031"
+#spawnitem Military_Helmet_08 1 Location "339230.875 363356.531 21717.031"
+#spawnitem Backpack_02_03 1 Location "339230.875 363356.531 21717.031"
+#spawnitem Bulletproof_Vest_05 1 Location "339230.875 363356.531 21717.031"
+
+
+#spawnitem WeaponScope_ACOG_01 1 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_ScopeRail_AK47 1 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_Magazine_AS_Val 2 Location "334258.688 354210.406 21049.598"
+#spawnitem Cal_9x39mm 3 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_Weapon_AS_Val 1 Location "334258.688 354210.406 21049.598"
+
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "318386.281 355124.281 21092.789"
+#spawnitem BP_Weapon_Block21 1 Location "318386.281 355124.281 21092.789"
+#spawnitem Cal_45_AP 2 Location "318386.281 355124.281 21092.789"
+#spawnitem BP_Magazine_Block21 2 Location "318386.281 355124.281 21092.789"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "326657.063 380732.188 21235.201"
+#spawnitem BP_DW715_Rail 1 Location "326657.063 380732.188 21235.201"
+#spawnitem Cal_44_Magnum_AP 2 Location "326657.063 380732.188 21235.201"
+#spawnitem BPC_Weapon_Judge44 1 Location "326657.063 380732.188 21235.201"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "326657.063 380732.188 21235.201"
+
+#spawnitem WeaponScope_Dragunov 1 Location "348509.063 401836.375 20675.977"
+#spawnitem BP_ImprovisedRail_Side 1 Location "348509.063 401836.375 20675.977"
+#spawnitem BP_M1_Clip 2 Location "348509.063 401836.375 20675.977"
+#spawnitem Cal_30-06_AP 2 Location "348509.063 401836.375 20675.977"
+#spawnitem BP_Weapon_M1_Garand 1 Location "348509.063 401836.375 20675.977"
+
+#spawnitem Military_Shirt_01 1 Location "367454.469 388574.438 20393.828"
+#spawnitem MilitaryPants_02 1 Location "367454.469 388574.438 20393.828"
+#spawnitem Military_Helmet_08 1 Location "367454.469 388574.438 20393.828"
+#spawnitem Backpack_02_03 1 Location "367454.469 388574.438 20393.828"
+#spawnitem Bulletproof_Vest_05 1 Location "367454.469 388574.438 20393.828"
+
+
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "372100.594 382865.688 21011.521"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "372100.594 382865.688 21011.521"
+#spawnitem BP_Magazine_M16 2 Location "372100.594 382865.688 21011.521"
+#spawnitem Cal_5_56x45mm 2 Location "372100.594 382865.688 21011.521"
+#spawnitem BP_Weapon_M16A4 1 Location "372100.594 382865.688 21011.521"
+
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "371685.000 365896.875 20323.844"
+#spawnitem BP_Magazine_M9 2 Location "371685.000 365896.875 20323.844"
+#spawnitem Cal_9mm 2 Location "371685.000 365896.875 20323.844"
+#spawnitem BP_Weapon_M9 1 Location "371685.000 365896.875 20323.844"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "371685.000 365896.875 20323.844"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "359631.469 372677.969 20407.514"
+#spawnitem BP_ScopeRail_AK47 1 Location "359631.469 372677.969 20407.514"
+#spawnitem BP_Magazine_AK47 2 Location "359631.469 372677.969 20407.514"
+#spawnitem BP_M70_Bayonet 1 Location "359631.469 372677.969 20407.514"
+#spawnitem Cal_7_62x39mm 2 Location "359631.469 372677.969 20407.514"
+#spawnitem BP_Weapon_AK47 1 Location "359631.469 372677.969 20407.514"
+
+#spawnitem Military_Shirt_01 1 Location "357913.469 371065.813 20393.596"
+#spawnitem MilitaryPants_02 1 Location "357913.469 371065.813 20393.596"
+#spawnitem Military_Helmet_08 1 Location "357913.469 371065.813 20393.596"
+#spawnitem Backpack_02_03 1 Location "357913.469 371065.813 20393.596"
+#spawnitem Bulletproof_Vest_05 1 Location "357913.469 371065.813 20393.596"
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#StartTournamentMode 309996.469 413153.656 5 45
+
+
+#spawnitem BP_Weapon_MP5 1 Location "338186.375 336862.000 21009.445"
+#spawnitem BP_Magazine_MP5 2 Location "338186.375 336862.000 21009.445"
+#spawnitem Cal_9mm_AP 3 Location "338186.375 336862.000 21009.445"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "338186.375 336862.000 21009.445"
+#spawnitem BP_MP5_Rail_Short 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Military_Shirt_02 1 Location "327956.563 354822.031 21075.898"
+#spawnitem MilitaryPants_03 1 Location "327956.563 354822.031 21075.898"
+#spawnitem Combat_Helmet_03 1 Location "327956.563 354822.031 21075.898"
+#spawnItem Hiking_Boots_04 1 Location "327956.563 354822.031 21075.898"
+#spawnitem Armor_Tactical_Vest_04 1 Location "327956.563 354822.031 21075.898"
+#spawnitem Backpack_02_06 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "321741.063 355467.969 21728.031"
+#spawnitem WeaponScope_ACOG_01 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_Magazine_UMP45 2 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_45 2 Location "321741.063 355467.969 21728.031"
+#spawnitem BPC_Weapon_UMP45 1 Location "321741.063 355467.969 21728.031"
+#spawnitem 12_Gauge_Slug 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BPC_Weapon_SDASS 1 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_Magazine_M1911 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "325117.375 376073.688 21621.139"
+#spawnitem Cal_45 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_Weapon_AKS_74U 1 Location "330455.281 378127.344 21713.652"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "330455.281 378127.344 21713.652"
+#spawnitem BP_ScopeRail_AK47 1 Location "330455.281 378127.344 21713.652"
+#spawnitem BP_Magazine_AKS_74U 2 Location "330455.281 378127.344 21713.652"
+#spawnitem Cal_5_45x39mm 2 Location "330455.281 378127.344 21713.652"
+#spawnitem WeaponScope_ACOG_01 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_ScopeRail_AK47 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Magazine_AS_Val 2 Location "331874.094 373360.375 21865.627"
+#spawnitem Cal_9x39mm 3 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Weapon_AS_Val 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Weapon_Block21 1 Location "331874.094 373360.375 21865.627"
+#spawnitem Cal_45_AP 2 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_Magazine_Block21 2 Location "331874.094 373360.375 21865.627"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "323772.781 371759.531 22369.895"
+#spawnitem BP_DW715_Rail 1 Location "323772.781 371759.531 22369.895"
+#spawnitem Cal_44_Magnum_AP 2 Location "323772.781 371759.531 22369.895"
+#spawnitem BP_Weapon_Block21 1 Location "323772.781 371759.531 22369.895"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "323772.781 371759.531 22369.895"
+#spawnitem WeaponScope_Dragunov 1 Location "319814.406 366632.719 23342.297"
+#spawnitem BP_ImprovisedRail_Side 1 Location "319814.406 366632.719 23342.297"
+#spawnitem BP_M1_Clip 2 Location "319814.406 366632.719 23342.297"
+#spawnitem Cal_30-06_AP 2 Location "319814.406 366632.719 23342.297"
+#spawnitem BP_Weapon_M1_Garand 1 Location "319814.406 366632.719 23342.297"
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "319342.875 369457.563 23325.773"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "319342.875 369457.563 23325.773"
+#spawnitem BP_Magazine_M16 2 Location "319342.875 369457.563 23325.773"
+#spawnitem Cal_5_56x45mm 2 Location "319342.875 369457.563 23325.773"
+#spawnitem BP_Weapon_M16A4 1 Location "319342.875 369457.563 23325.773"
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "315714.438 367519.813 22034.961"
+#spawnitem BP_Magazine_M9 2 Location "315714.438 367519.813 22034.961"
+#spawnitem Cal_9mm 2 Location "315714.438 367519.813 22034.961"
+#spawnitem BP_Weapon_M9 1 Location "315714.438 367519.813 22034.961"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "315714.438 367519.813 22034.961"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_ScopeRail_AK47 1 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_Magazine_AK47 2 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_M70_Bayonet 1 Location "306394.188 363557.094 21992.707"
+#spawnitem Cal_7_62x39mm 2 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_Weapon_AK47 1 Location "306394.188 363557.094 21992.707"
+#spawnitem BP_Weapon_MP5 1 Location "306235.406 362729.563 21398.424"
+#spawnitem BP_Magazine_MP5 2 Location "306235.406 362729.563 21398.424"
+#spawnitem Cal_9mm_AP 3 Location "306235.406 362729.563 21398.424"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "306235.406 362729.563 21398.424"
+#spawnitem BP_MP5_Rail_Short 1 Location "306235.406 362729.563 21398.424"
+#spawnitem Military_Shirt_02 1 Location "305727.906 354940.219 21419.924"
+#spawnitem MilitaryPants_03 1 Location "305727.906 354940.219 21419.924"
+#spawnitem Combat_Helmet_03 1 Location "305727.906 354940.219 21419.924"
+#spawnItem Hiking_Boots_04 1 Location "305727.906 354940.219 21419.924"
+#spawnitem Armor_Tactical_Vest_04 1 Location "305727.906 354940.219 21419.924"
+#spawnitem Backpack_02_06 1 Location "314420.719 352656.875 21389.691"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "314420.719 352656.875 21389.691"
+#spawnitem WeaponScope_ACOG_01 1 Location "314420.719 352656.875 21389.691"
+#spawnitem BP_Magazine_UMP45 2 Location "314420.719 352656.875 21389.691"
+#spawnitem Cal_45 2 Location "314420.719 352656.875 21389.691"
+#spawnitem BPC_Weapon_UMP45 1 Location "314420.719 352656.875 21389.691"
+#spawnitem 12_Gauge_Slug 2 Location "305212.125 343946.938 21448.967"
+#spawnitem BPC_Weapon_SDASS 1 Location "305212.125 343946.938 21448.967"
+#spawnitem BP_Magazine_M1911 2 Location "305212.125 343946.938 21448.967"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "305212.125 343946.938 21448.967"
+#spawnitem Cal_45 2 Location "305212.125 343946.938 21448.967"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "305212.125 343946.938 21448.967"
+#spawnitem BP_Weapon_AKS_74U 1 Location "312165.844 342298.688 22133.533"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "312165.844 342298.688 22133.533"
+#spawnitem BP_ScopeRail_AK47 1 Location "312165.844 342298.688 22133.533"
+#spawnitem BP_Magazine_AKS_74U 2 Location "312165.844 342298.688 22133.533"
+#spawnitem Cal_5_45x39mm 2 Location "312165.844 342298.688 22133.533"
+#spawnitem WeaponScope_ACOG_01 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_ScopeRail_AK47 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_Magazine_AS_Val 2 Location "322484.500 350840.563 21098.471"
+#spawnitem Cal_9x39mm 3 Location "322484.500 350840.563 21098.471"
+#spawnitem BP_Weapon_AS_Val 1 Location "322484.500 350840.563 21098.471"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "326233.906 342378.469 21212.938"
+#spawnitem BP_Weapon_Block21 1 Location "326233.906 342378.469 21212.938"
+#spawnitem Cal_45_AP 2 Location "326233.906 342378.469 21212.938"
+#spawnitem BP_Magazine_Block21 2 Location "326233.906 342378.469 21212.938"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "325851.406 357394.281 21058.225"
+#spawnitem BP_DW715_Rail 1 Location "325851.406 357394.281 21058.225"
+#spawnitem Cal_44_Magnum_AP 2 Location "325851.406 357394.281 21058.225"
+#spawnitem BP_Weapon_Block21 1 Location "325851.406 357394.281 21058.225"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "325851.406 357394.281 21058.225"
+#spawnitem WeaponScope_Dragunov 1 Location "330328.750 360446.219 21061.158"
+#spawnitem BP_ImprovisedRail_Side 1 Location "330328.750 360446.219 21061.158"
+#spawnitem BP_M1_Clip 2 Location "330328.750 360446.219 21061.158"
+#spawnitem Cal_30-06_AP 2 Location "330328.750 360446.219 21061.158"
+#spawnitem BP_Weapon_M1_Garand 1 Location "330328.750 360446.219 21061.158"
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "333765.781 369257.094 21117.250"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "333765.781 369257.094 21117.250"
+#spawnitem BP_Magazine_M16 2 Location "333765.781 369257.094 21117.250"
+#spawnitem Cal_5_56x45mm 2 Location "333765.781 369257.094 21117.250"
+#spawnitem BP_Weapon_M16A4 1 Location "333765.781 369257.094 21117.250"
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "334720.438 371341.719 21133.148"
+#spawnitem BP_Magazine_M9 2 Location "334720.438 371341.719 21133.148"
+#spawnitem Cal_9mm 2 Location "334720.438 371341.719 21133.148"
+#spawnitem BP_Weapon_M9 1 Location "334720.438 371341.719 21133.148"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "334720.438 371341.719 21133.148"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "337177.750 367669.281 21097.061"
+#spawnitem BP_ScopeRail_AK47 1 Location "337177.750 367669.281 21097.061"
+#spawnitem BP_Magazine_AK47 2 Location "337177.750 367669.281 21097.061"
+#spawnitem BP_M70_Bayonet 1 Location "337177.750 367669.281 21097.061"
+#spawnitem Cal_7_62x39mm 2 Location "337177.750 367669.281 21097.061"
+#spawnitem BP_Weapon_AK47 1 Location "337177.750 367669.281 21097.061"
+#spawnitem Military_Shirt_01 1 Location "345340.094 358916.750 20999.684"
+#spawnitem MilitaryPants_02 1 Location "345340.094 358916.750 20999.684"
+#spawnitem Military_Helmet_08 1 Location "345340.094 358916.750 20999.684"
+#spawnitem Backpack_02_03 1 Location "345340.094 358916.750 20999.684"
+#spawnitem Bulletproof_Vest_05 1 Location "345340.094 358916.750 20999.684"
+#spawnitem Military_Shirt_04 1 Location "341090.813 354734.781 21176.004"
+#spawnitem MilitaryPants_05 1 Location "341090.813 354734.781 21176.004"
+#spawnitem Military_Helmet_03 1 Location "341090.813 354734.781 21176.004"
+#spawnitem Backpack_02_06 1 Location "341090.813 354734.781 21176.004"
+#spawnitem Bulletproof_Vest_01 1 Location "341090.813 354734.781 21176.004"
+#spawnitem BP_Weapon_MP5 1 Location "338963.188 356930.469 22219.053"
+#spawnitem BP_Magazine_MP5 2 Location "338963.188 356930.469 22219.053"
+#spawnitem Cal_9mm_AP 3 Location "338963.188 356930.469 22219.053"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "338963.188 356930.469 22219.053"
+#spawnitem BP_MP5_Rail_Short 1 Location "338963.188 356930.469 22219.053"
+#spawnitem Military_Shirt_02 1 Location "342171.094 353885.313 22188.053"
+#spawnitem MilitaryPants_03 1 Location "342171.094 353885.313 22188.053"
+#spawnitem Combat_Helmet_03 1 Location "342171.094 353885.313 22188.053"
+#spawnItem Hiking_Boots_04 1 Location "342171.094 353885.313 22188.053"
+#spawnitem Armor_Tactical_Vest_04 1 Location "342171.094 353885.313 22188.053"
+#spawnitem Backpack_02_06 1 Location "301181.500 358977.094 22855.414"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "301181.500 358977.094 22855.414"
+#spawnitem WeaponScope_ACOG_01 1 Location "301181.500 358977.094 22855.414"
+#spawnitem BP_Magazine_UMP45 2 Location "301181.500 358977.094 22855.414"
+#spawnitem Cal_45 2 Location "301181.500 358977.094 22855.414"
+#spawnitem BPC_Weapon_UMP45 1 Location "301181.500 358977.094 22855.414"
+#spawnitem 12_Gauge_Slug 2 Location "331959.219 348434.063 21060.369"
+#spawnitem BPC_Weapon_SDASS 1 Location "331959.219 348434.063 21060.369"
+#spawnitem BP_Magazine_M1911 2 Location "315714.438 367519.813 22034.961"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "315714.438 367519.813 22034.961"
+#spawnitem Cal_45 2 Location "315714.438 367519.813 22034.961"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "315714.438 367519.813 22034.961"
+#spawnitem BP_Weapon_AKS_74U 1 Location "341124.000 344280.000 21074.826"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "341124.000 344280.000 21074.826"
+#spawnitem BP_ScopeRail_AK47 1 Location "341124.000 344280.000 21074.826"
+#spawnitem BP_Magazine_AKS_74U 2 Location "341124.000 344280.000 21074.826"
+#spawnitem Cal_5_45x39mm 2 Location "341124.000 344280.000 21074.826"
+#spawnitem WeaponScope_ACOG_01 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_ScopeRail_AK47 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_Magazine_AS_Val 2 Location "348725.531 340286.781 21723.254"
+#spawnitem Cal_9x39mm 3 Location "348725.531 340286.781 21723.254"
+#spawnitem BP_Weapon_AS_Val 1 Location "348725.531 340286.781 21723.254"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "358273.625 339899.594 22331.586"
+#spawnitem BP_Weapon_Block21 1 Location "358273.625 339899.594 22331.586"
+#spawnitem Cal_45_AP 2 Location "358273.625 339899.594 22331.586"
+#spawnitem BP_Magazine_Block21 2 Location "358273.625 339899.594 22331.586"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "355477.969 332900.594 22220.025"
+#spawnitem BP_DW715_Rail 1 Location "355477.969 332900.594 22220.025"
+#spawnitem Cal_44_Magnum_AP 2 Location "355477.969 332900.594 22220.025"
+#spawnitem BP_Weapon_Block21 1 Location "355477.969 332900.594 22220.025"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "355477.969 332900.594 22220.025"
+#spawnitem WeaponScope_Dragunov 1 Location "346829.938 327580.688 21711.949"
+#spawnitem BP_ImprovisedRail_Side 1 Location "346829.938 327580.688 21711.949"
+#spawnitem BP_M1_Clip 2 Location "346829.938 327580.688 21711.949"
+#spawnitem Cal_30-06_AP 2 Location "346829.938 327580.688 21711.949"
+#spawnitem BP_Weapon_M1_Garand 1 Location "346829.938 327580.688 21711.949"
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_Magazine_M16 2 Location "327956.563 354822.031 21075.898"
+#spawnitem Cal_5_56x45mm 2 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_Weapon_M16A4 1 Location "327956.563 354822.031 21075.898"
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_Magazine_M9 2 Location "321741.063 355467.969 21728.031"
+#spawnitem Cal_9mm 2 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_Weapon_M9 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "321741.063 355467.969 21728.031"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_ScopeRail_AK47 1 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_Magazine_AK47 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_M70_Bayonet 1 Location "325117.375 376073.688 21621.139"
+#spawnitem Cal_7_62x39mm 2 Location "325117.375 376073.688 21621.139"
+#spawnitem BP_Weapon_AK47 1 Location "325117.375 376073.688 21621.139"
+#spawnitem Military_Shirt_01 1 Location "338186.375 336862.000 21009.445"
+#spawnitem MilitaryPants_02 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Military_Helmet_08 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Backpack_02_03 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Bulletproof_Vest_05 1 Location "338186.375 336862.000 21009.445"
+#spawnitem Military_Shirt_04 1 Location "331874.094 373360.375 21865.627"
+#spawnitem MilitaryPants_05 1 Location "331874.094 373360.375 21865.627"
+#spawnitem Military_Helmet_03 1 Location "331874.094 373360.375 21865.627"
+#spawnitem Backpack_02_06 1 Location "331874.094 373360.375 21865.627"
+#spawnitem Bulletproof_Vest_01 1 Location "331874.094 373360.375 21865.627"
+
+#spawnitem BP_Weapon_MP5 1 Location "351204.750 366453.813 20682.857"
+#spawnitem BP_Magazine_MP5 2 Location "351204.750 366453.813 20682.857"
+#spawnitem Cal_9mm_AP 3 Location "351204.750 366453.813 20682.857"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "351204.750 366453.813 20682.857"
+#spawnitem BP_MP5_Rail_Short 1 Location "351204.750 366453.813 20682.857"
+
+#spawnitem Military_Shirt_02 1 Location "354543.313 360048.781 21430.932"
+#spawnitem MilitaryPants_03 1 Location "354543.313 360048.781 21430.932"
+#spawnitem Combat_Helmet_03 1 Location "354543.313 360048.781 21430.932"
+#spawnItem Hiking_Boots_04 1 Location "354543.313 360048.781 21430.932"
+#spawnitem Armor_Tactical_Vest_04 1 Location "354543.313 360048.781 21430.932"
+#spawnitem Backpack_02_06 1 Location "354543.313 360048.781 21430.932"
+
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "352042.563 351739.938 21624.404"
+#spawnitem WeaponScope_ACOG_01 1 Location "352042.563 351739.938 21624.404"
+#spawnitem BP_Magazine_UMP45 2 Location "352042.563 351739.938 21624.404"
+#spawnitem Cal_45 2 Location "352042.563 351739.938 21624.404"
+#spawnitem BPC_Weapon_UMP45 1 Location "352042.563 351739.938 21624.404"
+
+#spawnitem 12_Gauge_Slug 2 Location "360169.719 346304.406 21675.463"
+#spawnitem BPC_Weapon_SDASS 1 Location "360169.719 346304.406 21675.463"
+
+
+#spawnitem BP_Magazine_M1911 2 Location "354546.500 350189.719 21616.326"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "354546.500 350189.719 21616.326"
+#spawnitem Cal_45 2 Location "354546.500 350189.719 21616.326"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "354546.500 350189.719 21616.326"
+
+#spawnitem BP_Weapon_AKS_74U 1 Location "341429.656 327625.438 20873.559"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "341429.656 327625.438 20873.559"
+#spawnitem BP_ScopeRail_AK47 1 Location "341429.656 327625.438 20873.559"
+#spawnitem BP_Magazine_AKS_74U 2 Location "341429.656 327625.438 20873.559"
+#spawnitem Cal_5_45x39mm 2 Location "341429.656 327625.438 20873.559"
+
+#spawnitem Military_Shirt_04 1 Location "334146.031 331251.813 20887.438"
+#spawnitem MilitaryPants_05 1 Location "334146.031 331251.813 20887.438"
+#spawnitem Military_Helmet_03 1 Location "334146.031 331251.813 20887.438"
+#spawnitem Backpack_02_06 1 Location "334146.031 331251.813 20887.438"
+#spawnitem Bulletproof_Vest_01 1 Location "334146.031 331251.813 20887.438"
+
+#spawnitem WeaponScope_ACOG_01 1 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_ScopeRail_AK47 1 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_Magazine_AS_Val 2 Location "332917.938 333574.188 22111.918"
+#spawnitem Cal_9x39mm 3 Location "332917.938 333574.188 22111.918"
+#spawnitem BP_Weapon_AS_Val 1 Location "332917.938 333574.188 22111.918"
+
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "328621.188 336784.719 21486.334"
+#spawnitem BP_Weapon_Block21 1 Location "328621.188 336784.719 21486.334"
+#spawnitem Cal_45_AP 2 Location "328621.188 336784.719 21486.334"
+#spawnitem BP_Magazine_Block21 2 Location "328621.188 336784.719 21486.334"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "299809.875 324627.531 22457.715"
+#spawnitem BP_DW715_Rail 1 Location "299809.875 324627.531 22457.715"
+#spawnitem Cal_44_Magnum_AP 2 Location "299809.875 324627.531 22457.715"
+#spawnitem BPC_Weapon_Judge44 1 Location "299809.875 324627.531 22457.715"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "299809.875 324627.531 22457.715"
+
+#spawnitem WeaponScope_Dragunov 1 Location "284878.250 332845.000 22559.807"
+#spawnitem BP_ImprovisedRail_Side 1 Location "284878.250 332845.000 22559.807"
+#spawnitem BP_M1_Clip 2 Location "284878.250 332845.000 22559.807"
+#spawnitem Cal_30-06_AP 2 Location "284878.250 332845.000 22559.807"
+#spawnitem BP_Weapon_M1_Garand 1 Location "284878.250 332845.000 22559.807"
+
+#spawnitem Military_Shirt_04 1 Location "282512.563 343371.375 22579.795"
+#spawnitem MilitaryPants_05 1 Location "282512.563 343371.375 22579.795"
+#spawnitem Military_Helmet_03 1 Location "282512.563 343371.375 22579.795"
+#spawnitem Backpack_02_06 1 Location "282512.563 343371.375 22579.795"
+#spawnitem Bulletproof_Vest_01 1 Location "282512.563 343371.375 22579.795"
+
+
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "289382.500 344913.188 22300.375"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "289382.500 344913.188 22300.375"
+#spawnitem BP_Magazine_M16 2 Location "289382.500 344913.188 22300.375"
+#spawnitem Cal_5_56x45mm 2 Location "289382.500 344913.188 22300.375"
+#spawnitem BP_Weapon_M16A4 1 Location "289382.500 344913.188 22300.375"
+
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "306512.406 354509.438 21914.750"
+#spawnitem BP_Magazine_M9 2 Location "306512.406 354509.438 21914.750"
+#spawnitem Cal_9mm 2 Location "306512.406 354509.438 21914.750"
+#spawnitem BP_Weapon_M9 1 Location "306512.406 354509.438 21914.750"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "306512.406 354509.438 21914.750"
+
+
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "313300.125 348133.000 21680.756"
+#spawnitem BP_ScopeRail_AK47 1 Location "313300.125 348133.000 21680.756"
+#spawnitem BP_Magazine_AK47 2 Location "313300.125 348133.000 21680.756"
+#spawnitem BP_M70_Bayonet 1 Location "313300.125 348133.000 21680.756"
+#spawnitem Cal_7_62x39mm 2 Location "313300.125 348133.000 21680.756"
+#spawnitem BP_Weapon_AK47 1 Location "313300.125 348133.000 21680.756"
+
+#spawnitem BP_Weapon_MP5 1 Location "315453.750 353282.969 21311.977"
+#spawnitem BP_Magazine_MP5 2 Location "315453.750 353282.969 21311.977"
+#spawnitem Cal_9mm_AP 3 Location "315453.750 353282.969 21311.977"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "315453.750 353282.969 21311.977"
+#spawnitem BP_MP5_Rail_Short 1 Location "315453.750 353282.969 21311.977"
+
+#spawnitem Military_Shirt_02 1 Location "315474.125 365838.563 21188.996"
+#spawnitem MilitaryPants_03 1 Location "315474.125 365838.563 21188.996"
+#spawnitem Combat_Helmet_03 1 Location "315474.125 365838.563 21188.996"
+#spawnItem Hiking_Boots_04 1 Location "315474.125 365838.563 21188.996"
+#spawnitem Armor_Tactical_Vest_04 1 Location "315474.125 365838.563 21188.996"
+
+#spawnitem Backpack_02_06 1 Location "323349.313 362136.500 21243.338"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "323349.313 362136.500 21243.338"
+#spawnitem WeaponScope_ACOG_01 1 Location "323349.313 362136.500 21243.338"
+#spawnitem BP_Magazine_UMP45 2 Location "323349.313 362136.500 21243.338"
+#spawnitem Cal_45 2 Location "323349.313 362136.500 21243.338"
+#spawnitem BPC_Weapon_UMP45 1 Location "323349.313 362136.500 21243.338"
+
+#spawnitem 12_Gauge_Slug 2 Location "324357.625 365654.469 21284.717"
+#spawnitem BPC_Weapon_SDASS 1 Location "324357.625 365654.469 21284.717"
+
+
+#spawnitem BP_Magazine_M1911 2 Location "306007.938 366695.375 21640.223"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "306007.938 366695.375 21640.223"
+#spawnitem Cal_45 2 Location "306007.938 366695.375 21640.223"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "306007.938 366695.375 21640.223"
+
+#spawnitem BP_Weapon_AKS_74U 1 Location "300143.219 367595.625 21877.178"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "300143.219 367595.625 21877.178"
+#spawnitem BP_ScopeRail_AK47 1 Location "300143.219 367595.625 21877.178"
+#spawnitem BP_Magazine_AKS_74U 2 Location "300143.219 367595.625 21877.178"
+#spawnitem Cal_5_45x39mm 2 Location "300143.219 367595.625 21877.178"
+
+#spawnitem Military_Shirt_04 1 Location "295089.719 367009.219 21905.352"
+#spawnitem MilitaryPants_05 1 Location "295089.719 367009.219 21905.352"
+#spawnitem Military_Helmet_03 1 Location "295089.719 367009.219 21905.352"
+#spawnitem Backpack_02_06 1 Location "295089.719 367009.219 21905.352"
+#spawnitem Bulletproof_Vest_01 1 Location "295089.719 367009.219 21905.352"
+
+
+#spawnitem WeaponScope_ACOG_01 1 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_ScopeRail_AK47 1 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_Magazine_AS_Val 2 Location "288597.719 371117.094 21858.340"
+#spawnitem Cal_9x39mm 3 Location "288597.719 371117.094 21858.340"
+#spawnitem BP_Weapon_AS_Val 1 Location "288597.719 371117.094 21858.340"
+
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "285811.375 373225.969 22108.494"
+#spawnitem BP_Weapon_Block21 1 Location "285811.375 373225.969 22108.494"
+#spawnitem Cal_45_AP 2 Location "285811.375 373225.969 22108.494"
+#spawnitem BP_Magazine_Block21 2 Location "285811.375 373225.969 22108.494"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "283045.438 375975.125 22105.939"
+#spawnitem BP_DW715_Rail 1 Location "283045.438 375975.125 22105.939"
+#spawnitem Cal_44_Magnum_AP 2 Location "283045.438 375975.125 22105.939"
+#spawnitem BP_Weapon_Block21 1 Location "283045.438 375975.125 22105.939"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "283045.438 375975.125 22105.939"
+
+#spawnitem WeaponScope_Dragunov 1 Location "284082.344 381483.500 21972.377"
+#spawnitem BP_ImprovisedRail_Side 1 Location "284082.344 381483.500 21972.377"
+#spawnitem BP_M1_Clip 2 Location "284082.344 381483.500 21972.377"
+#spawnitem Cal_30-06_AP 2 Location "284082.344 381483.500 21972.377"
+#spawnitem BP_Weapon_M1_Garand 1 Location "284082.344 381483.500 21972.377"
+
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "290670.719 380521.156 21894.514"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "290670.719 380521.156 21894.514"
+#spawnitem BP_Magazine_M16 2 Location "290670.719 380521.156 21894.514"
+#spawnitem Cal_5_56x45mm 2 Location "290670.719 380521.156 21894.514"
+#spawnitem BP_Weapon_M16A4 1 Location "290670.719 380521.156 21894.514"
+
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "292772.094 392780.719 21885.215"
+#spawnitem BP_Magazine_M9 2 Location "292772.094 392780.719 21885.215"
+#spawnitem Cal_9mm 2 Location "292772.094 392780.719 21885.215"
+#spawnitem BP_Weapon_M9 1 Location "292772.094 392780.719 21885.215"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "292772.094 392780.719 21885.215"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "300697.281 408149.875 21895.859"
+#spawnitem BP_ScopeRail_AK47 1 Location "300697.281 408149.875 21895.859"
+#spawnitem BP_Magazine_AK47 2 Location "300697.281 408149.875 21895.859"
+#spawnitem BP_M70_Bayonet 1 Location "300697.281 408149.875 21895.859"
+#spawnitem Cal_7_62x39mm 2 Location "300697.281 408149.875 21895.859"
+#spawnitem BP_Weapon_AK47 1 Location "300697.281 408149.875 21895.859"
+
+#spawnitem Military_Shirt_01 1 Location "306803.969 407172.625 21949.418"
+#spawnitem MilitaryPants_02 1 Location "306803.969 407172.625 21949.418"
+#spawnitem Military_Helmet_08 1 Location "306803.969 407172.625 21949.418"
+#spawnitem Backpack_02_03 1 Location "306803.969 407172.625 21949.418"
+#spawnitem Bulletproof_Vest_05 1 Location "306803.969 407172.625 21949.418"
+
+#spawnitem Military_Shirt_04 1 Location "313053.969 398093.438 21178.000"
+#spawnitem MilitaryPants_05 1 Location "313053.969 398093.438 21178.000"
+#spawnitem Military_Helmet_03 1 Location "313053.969 398093.438 21178.000"
+#spawnitem Backpack_02_06 1 Location "313053.969 398093.438 21178.000"
+#spawnitem Bulletproof_Vest_01 1 Location "313053.969 398093.438 21178.000"
+
+
+
+#spawnitem BP_Weapon_MP5 1 Location "323154.125 393463.156 21455.693"
+#spawnitem BP_Magazine_MP5 2 Location "323154.125 393463.156 21455.693"
+#spawnitem Cal_9mm_AP 3 Location "323154.125 393463.156 21455.693"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "323154.125 393463.156 21455.693"
+#spawnitem BP_MP5_Rail_Short 1 Location "323154.125 393463.156 21455.693"
+
+#spawnitem Military_Shirt_02 1 Location "334634.031 395711.719 20622.814"
+#spawnitem MilitaryPants_03 1 Location "334634.031 395711.719 20622.814"
+#spawnitem Combat_Helmet_03 1 Location "334634.031 395711.719 20622.814"
+#spawnItem Hiking_Boots_04 1 Location "334634.031 395711.719 20622.814"
+#spawnitem Armor_Tactical_Vest_04 1 Location "334634.031 395711.719 20622.814"
+
+#spawnitem Backpack_02_06 1 Location "346615.313 395557.563 20656.113"
+#spawnitem BP_WeaponSights_V3_Holographic 1 Location "346615.313 395557.563 20656.113"
+#spawnitem WeaponScope_ACOG_01 1 Location "346615.313 395557.563 20656.113"
+#spawnitem BP_Magazine_UMP45 2 Location "346615.313 395557.563 20656.113"
+#spawnitem Cal_45 2 Location "346615.313 395557.563 20656.113"
+#spawnitem BPC_Weapon_UMP45 1 Location "346615.313 395557.563 20656.113"
+
+#spawnitem 12_Gauge_Slug 2 Location "348207.563 384747.969 20777.633"
+#spawnitem BPC_Weapon_SDASS 1 Location "348207.563 384747.969 20777.633"
+
+
+#spawnitem BP_Magazine_M1911 2 Location "338489.625 375569.813 21123.219"
+#spawnitem BPC_Weapon_M1911_JayW 1 Location "338489.625 375569.813 21123.219"
+#spawnitem Cal_45 2 Location "338489.625 375569.813 21123.219"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "338489.625 375569.813 21123.219"
+
+#spawnitem BP_Weapon_AKS_74U 1 Location "334771.938 371228.781 21091.406"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "334771.938 371228.781 21091.406"
+#spawnitem BP_ScopeRail_AK47 1 Location "334771.938 371228.781 21091.406"
+#spawnitem BP_Magazine_AKS_74U 2 Location "334771.938 371228.781 21091.406"
+#spawnitem Cal_5_45x39mm 2 Location "334771.938 371228.781 21091.406"
+
+#spawnitem Military_Shirt_01 1 Location "339230.875 363356.531 21717.031"
+#spawnitem MilitaryPants_02 1 Location "339230.875 363356.531 21717.031"
+#spawnitem Military_Helmet_08 1 Location "339230.875 363356.531 21717.031"
+#spawnitem Backpack_02_03 1 Location "339230.875 363356.531 21717.031"
+#spawnitem Bulletproof_Vest_05 1 Location "339230.875 363356.531 21717.031"
+
+
+#spawnitem WeaponScope_ACOG_01 1 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_ScopeRail_AK47 1 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_Magazine_AS_Val 2 Location "334258.688 354210.406 21049.598"
+#spawnitem Cal_9x39mm 3 Location "334258.688 354210.406 21049.598"
+#spawnitem BP_Weapon_AS_Val 1 Location "334258.688 354210.406 21049.598"
+
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "318386.281 355124.281 21092.789"
+#spawnitem BP_Weapon_Block21 1 Location "318386.281 355124.281 21092.789"
+#spawnitem Cal_45_AP 2 Location "318386.281 355124.281 21092.789"
+#spawnitem BP_Magazine_Block21 2 Location "318386.281 355124.281 21092.789"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "326657.063 380732.188 21235.201"
+#spawnitem BP_DW715_Rail 1 Location "326657.063 380732.188 21235.201"
+#spawnitem Cal_44_Magnum_AP 2 Location "326657.063 380732.188 21235.201"
+#spawnitem BPC_Weapon_Judge44 1 Location "326657.063 380732.188 21235.201"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "326657.063 380732.188 21235.201"
+
+#spawnitem WeaponScope_Dragunov 1 Location "348509.063 401836.375 20675.977"
+#spawnitem BP_ImprovisedRail_Side 1 Location "348509.063 401836.375 20675.977"
+#spawnitem BP_M1_Clip 2 Location "348509.063 401836.375 20675.977"
+#spawnitem Cal_30-06_AP 2 Location "348509.063 401836.375 20675.977"
+#spawnitem BP_Weapon_M1_Garand 1 Location "348509.063 401836.375 20675.977"
+
+#spawnitem Military_Shirt_01 1 Location "367454.469 388574.438 20393.828"
+#spawnitem MilitaryPants_02 1 Location "367454.469 388574.438 20393.828"
+#spawnitem Military_Helmet_08 1 Location "367454.469 388574.438 20393.828"
+#spawnitem Backpack_02_03 1 Location "367454.469 388574.438 20393.828"
+#spawnitem Bulletproof_Vest_05 1 Location "367454.469 388574.438 20393.828"
+
+
+#spawnitem BP_WeaponSuppressor_MK18 1 Location "372100.594 382865.688 21011.521"
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "372100.594 382865.688 21011.521"
+#spawnitem BP_Magazine_M16 2 Location "372100.594 382865.688 21011.521"
+#spawnitem Cal_5_56x45mm 2 Location "372100.594 382865.688 21011.521"
+#spawnitem BP_Weapon_M16A4 1 Location "372100.594 382865.688 21011.521"
+
+#spawnitem BP_WeaponSuppressor_Handgun 1 Location "371685.000 365896.875 20323.844"
+#spawnitem BP_Magazine_M9 2 Location "371685.000 365896.875 20323.844"
+#spawnitem Cal_9mm 2 Location "371685.000 365896.875 20323.844"
+#spawnitem BP_Weapon_M9 1 Location "371685.000 365896.875 20323.844"
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "371685.000 365896.875 20323.844"
+
+#spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "359631.469 372677.969 20407.514"
+#spawnitem BP_ScopeRail_AK47 1 Location "359631.469 372677.969 20407.514"
+#spawnitem BP_Magazine_AK47 2 Location "359631.469 372677.969 20407.514"
+#spawnitem BP_M70_Bayonet 1 Location "359631.469 372677.969 20407.514"
+#spawnitem Cal_7_62x39mm 2 Location "359631.469 372677.969 20407.514"
+#spawnitem BP_Weapon_AK47 1 Location "359631.469 372677.969 20407.514"
+
+#spawnitem Military_Shirt_01 1 Location "357913.469 371065.813 20393.596"
+#spawnitem MilitaryPants_02 1 Location "357913.469 371065.813 20393.596"
+#spawnitem Military_Helmet_08 1 Location "357913.469 371065.813 20393.596"
+#spawnitem Backpack_02_03 1 Location "357913.469 371065.813 20393.596"
+#spawnitem Bulletproof_Vest_05 1 Location "357913.469 371065.813 20393.596"
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
