@@ -202,6 +202,7 @@ I'm Online now! Thank you all and Good Luck.
 #spawnitem BP_M70_Bayonet 1 Location "325117.375 376073.688 21621.139"
 #spawnitem Cal_7_62x39mm 2 Location "325117.375 376073.688 21621.139"
 #spawnitem BP_Weapon_AK47 1 Location "325117.375 376073.688 21621.139"
+#spawnItem TC_Backpack 1 Location "325117.375 376073.688 21621.139"
 #spawnitem Military_Shirt_01 1 Location "338186.375 336862.000 21009.445"
 #spawnitem MilitaryPants_02 1 Location "338186.375 336862.000 21009.445"
 #spawnitem Military_Helmet_08 1 Location "338186.375 336862.000 21009.445"
@@ -386,6 +387,7 @@ I'm Online now! Thank you all and Good Luck.
 #spawnitem BP_M70_Bayonet 1 Location "300697.281 408149.875 21895.859"
 #spawnitem Cal_7_62x39mm 2 Location "300697.281 408149.875 21895.859"
 #spawnitem BP_Weapon_AK47 1 Location "300697.281 408149.875 21895.859"
+#spawnItem TC_Backpack 1 Location "300697.281 408149.875 21895.859"
 
 #spawnitem Military_Shirt_01 1 Location "306803.969 407172.625 21949.418"
 #spawnitem MilitaryPants_02 1 Location "306803.969 407172.625 21949.418"
@@ -490,7 +492,7 @@ I'm Online now! Thank you all and Good Luck.
 #spawnitem BP_M70_Bayonet 1 Location "359631.469 372677.969 20407.514"
 #spawnitem Cal_7_62x39mm 2 Location "359631.469 372677.969 20407.514"
 #spawnitem BP_Weapon_AK47 1 Location "359631.469 372677.969 20407.514"
-
+#spawnItem TC_Backpack 1 Location "359631.469 372677.969 20407.514"
 #spawnitem Military_Shirt_01 1 Location "357913.469 371065.813 20393.596"
 #spawnitem MilitaryPants_02 1 Location "357913.469 371065.813 20393.596"
 #spawnitem Military_Helmet_08 1 Location "357913.469 371065.813 20393.596"
