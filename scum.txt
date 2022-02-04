@@ -7,7 +7,7 @@ The Warzone has been started at the BIG CITY D3/D4
 New loot start being dropped in the WARZONE
 
 #spawnitem WeaponScope_ACOG_01 1 Location "304563.063 353872.938 21918.504"
-#spawnItem Militry_Quiver 1 Location "304563.063 353872.938 21918.504"
+#spawnItem Military_Quiver_07 1 Location "304563.063 353872.938 21918.504"
 #spawnitem BP_Ammo_Crossbow_Bolt_Explosive 5 Location "304563.063 353872.938 21918.504"
 #spawnitem BP_Ammo_Crossbow_Bolt_Carbon 10 Location "304563.063 353872.938 21918.504"
 #spawnitem BP_Weapon_BlackHawk_Crossbow 1 Location "304563.063 353872.938 21918.504"
