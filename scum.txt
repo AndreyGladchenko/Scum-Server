@@ -1,8 +1,10 @@
-I'm Online now! Thank you all and Good Luck.
+The Warzone has been started at the BIG CITY D3/D4
 
 
 
-#StartTournamentMode 325528.9542 355365.8388 5 45
+
+
+New loot start being dropped in the WARZONE
 
 #spawnitem WeaponScope_ACOG_01 1 Location "304563.063 353872.938 21918.504"
 #spawnItem Militry_Quiver 1 Location "304563.063 353872.938 21918.504"
@@ -592,7 +594,7 @@ I'm Online now! Thank you all and Good Luck.
 
 
 
-#StartTournamentMode 309996.469 413153.656 5 45
+New loot start being dropped in the WARZONE!
 
 #spawnitem WeaponScope_ACOG_01 1 Location "304563.063 353872.938 21918.504"
 #spawnItem Militry_Quiver 1 Location "304563.063 353872.938 21918.504"
@@ -1182,7 +1184,7 @@ I'm Online now! Thank you all and Good Luck.
 
 
 
-#StartTournamentMode 325528.9542 355365.8388 5 45
+New loot start being dropped in the WARZONE
 
 #spawnitem WeaponScope_ACOG_01 1 Location "304563.063 353872.938 21918.504"
 #spawnItem Militry_Quiver 1 Location "304563.063 353872.938 21918.504"
@@ -1772,7 +1774,7 @@ I'm Online now! Thank you all and Good Luck.
 
 
 
-#StartTournamentMode 325528.9542 355365.8388 5 45
+New loot start being dropped in the WARZONE
 
 #spawnitem WeaponScope_ACOG_01 1 Location "304563.063 353872.938 21918.504"
 #spawnItem Militry_Quiver 1 Location "304563.063 353872.938 21918.504"
@@ -2362,7 +2364,7 @@ I'm Online now! Thank you all and Good Luck.
 
 
 
-#StartTournamentMode 325528.9542 355365.8388 5 45
+New loot start being dropped in the WARZONE!
 
 #spawnitem WeaponScope_ACOG_01 1 Location "304563.063 353872.938 21918.504"
 #spawnItem Militry_Quiver 1 Location "304563.063 353872.938 21918.504"
@@ -2952,7 +2954,7 @@ I'm Online now! Thank you all and Good Luck.
 
 
 
-#StartTournamentMode 325528.9542 355365.8388 5 45
+New loot start being dropped in the WARZONE!
 
 #spawnitem WeaponScope_ACOG_01 1 Location "304563.063 353872.938 21918.504"
 #spawnItem Militry_Quiver 1 Location "304563.063 353872.938 21918.504"
