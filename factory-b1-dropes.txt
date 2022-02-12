@@ -8,7 +8,7 @@ The WWARZONE has been started at the FACTORY B1
 
 
 New loot start being dropped in the WARZONE FACTORY
-New loot start being dropped in the WARZONE FACTORY
+
 
 #spawnitem WeaponScope_ACOG_01 1 Location "-404412.500 5595.600 35569.965"
 #spawnItem Military_Quiver_07 1 Location "-404412.500 5595.600 35569.965"
