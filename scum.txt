@@ -1,4 +1,4 @@
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 
 
 
@@ -561,7 +561,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_ScopeRail_AK47 1 Location "334771.938 371228.781 21091.406"
 #spawnitem BP_Magazine_AKS_74U 2 Location "334771.938 371228.781 21091.406"
 #spawnitem Cal_5_45x39mm 2 Location "334771.938 371228.781 21091.406"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem WeaponScope_ACOG_01 1 Location "339230.875 363356.531 21717.031"
 #spawnitem BP_ScopeRail_AK47 1 Location "339230.875 363356.531 21717.031"
 #spawnitem BP_Magazine_AS_Val 2 Location "339230.875 363356.531 21717.031"
@@ -936,7 +936,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "332917.938 333574.188 22111.918"
 #spawnitem BP_Weapon_Block21 1 Location "332917.938 333574.188 22111.918"
 #spawnitem Cal_45_AP 2 Location "332917.938 333574.188 22111.918"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Magazine_Block21 2 Location "332917.938 333574.188 22111.918"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "328621.188 336784.719 21486.334"
 #spawnitem BP_DW715_Rail 1 Location "328621.188 336784.719 21486.334"
@@ -1311,7 +1311,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_ImprovisedRail_Side 1 Location "305727.906 354940.219 21419.924"
 #spawnitem BP_M1_Clip 2 Location "305727.906 354940.219 21419.924"
 #spawnitem Cal_30-06_AP 2 Location "305727.906 354940.219 21419.924"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Weapon_M1_Garand 1 Location "305727.906 354940.219 21419.924"
 #spawnitem Military_Shirt_04 1 Location "314420.719 352656.875 21389.691"
 #spawnitem MilitaryPants_05 1 Location "314420.719 352656.875 21389.691"
@@ -1737,7 +1737,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Ammo_Crossbow_Bolt_Explosive 5 Location "304563.063 353872.938 21918.504"
 #spawnitem BP_Ammo_Crossbow_Bolt_Carbon 10 Location "304563.063 353872.938 21918.504"
 #spawnitem BP_Weapon_BlackHawk_Crossbow 1 Location "304563.063 353872.938 21918.504"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Weapon_MP5 1 Location "323053.781 364071.156 21225.539"
 #spawnitem BP_Magazine_MP5 2 Location "323053.781 364071.156 21225.539"
 #spawnitem Cal_9mm_AP 3 Location "323053.781 364071.156 21225.539"
@@ -2061,7 +2061,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem Cal_5_56x45mm 2 Location "300697.281 408149.875 21895.859"
 #spawnitem BP_Weapon_M16A4 1 Location "300697.281 408149.875 21895.859"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "306803.969 407172.625 21949.418"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Magazine_M9 2 Location "306803.969 407172.625 21949.418"
 #spawnitem Cal_9mm 1 Location "306803.969 407172.625 21949.418"
 #spawnitem BP_Weapon_M9 1 Location "306803.969 407172.625 21949.418"
@@ -2437,7 +2437,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Magazine_MP5 2 Location "346829.938 327580.688 21711.949"
 #spawnitem Cal_9mm_AP 3 Location "346829.938 327580.688 21711.949"
 #spawnitem BP_WeaponSights_V3_Holographic 1 Location "346829.938 327580.688 21711.949"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_MP5_Rail_Short 1 Location "346829.938 327580.688 21711.949"
 #spawnitem Military_Shirt_02 1 Location "351204.750 366453.813 20682.857"
 #spawnitem MilitaryPants_03 1 Location "351204.750 366453.813 20682.857"
@@ -2813,7 +2813,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem Combat_Helmet_03 1 Location "330455.281 378127.344 21713.652"
 #spawnItem Hiking_Boots_04 1 Location "330455.281 378127.344 21713.652"
 #spawnitem Armor_Tactical_Vest_04 1 Location "330455.281 378127.344 21713.652"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem Backpack_02_06 1 Location "330455.281 378127.344 21713.652"
 #spawnitem BP_WeaponSights_V3_Holographic 1 Location "331874.094 373360.375 21865.627"
 #spawnitem WeaponScope_ACOG_01 1 Location "331874.094 373360.375 21865.627"
@@ -3185,7 +3185,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_WeaponSights_V3_Holographic 1 Location "343903.844 367044.500 20840.510"
 #spawnitem WeaponScope_ACOG_01 1 Location "343903.844 367044.500 20840.510"
 #spawnitem BP_Magazine_UMP45 2 Location "343903.844 367044.500 20840.510"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem Cal_45 2 Location "343903.844 367044.500 20840.510"
 #spawnitem BPC_Weapon_UMP45 1 Location "343903.844 367044.500 20840.510"
 #spawnitem 12_Gauge_Slug 2 Location "334949.625 364101.344 21084.625"
@@ -3429,7 +3429,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_ScopeRail_AK47 1 Location "403364.656 551604.625 15675.773"
 #spawnitem BP_Magazine_AKS_74U 2 Location "403364.656 551604.625 15675.773"
 #spawnitem Cal_5_45x39mm 2 Location "403364.656 551604.625 15675.773"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem WeaponScope_ACOG_01 1 Location "404016.000 552716.250 15660.978"
 #spawnitem BP_ScopeRail_AK47 1 Location "404016.000 552716.250 15660.978"
 #spawnitem BP_Magazine_AS_Val 2 Location "404016.000 552716.250 15660.978"
@@ -3571,7 +3571,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 
 
 
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 
 
 
@@ -4132,7 +4132,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_ScopeRail_AK47 1 Location "334771.938 371228.781 21091.406"
 #spawnitem BP_Magazine_AKS_74U 2 Location "334771.938 371228.781 21091.406"
 #spawnitem Cal_5_45x39mm 2 Location "334771.938 371228.781 21091.406"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem WeaponScope_ACOG_01 1 Location "339230.875 363356.531 21717.031"
 #spawnitem BP_ScopeRail_AK47 1 Location "339230.875 363356.531 21717.031"
 #spawnitem BP_Magazine_AS_Val 2 Location "339230.875 363356.531 21717.031"
@@ -4507,7 +4507,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "332917.938 333574.188 22111.918"
 #spawnitem BP_Weapon_Block21 1 Location "332917.938 333574.188 22111.918"
 #spawnitem Cal_45_AP 2 Location "332917.938 333574.188 22111.918"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Magazine_Block21 2 Location "332917.938 333574.188 22111.918"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "328621.188 336784.719 21486.334"
 #spawnitem BP_DW715_Rail 1 Location "328621.188 336784.719 21486.334"
@@ -4882,7 +4882,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_ImprovisedRail_Side 1 Location "305727.906 354940.219 21419.924"
 #spawnitem BP_M1_Clip 2 Location "305727.906 354940.219 21419.924"
 #spawnitem Cal_30-06_AP 2 Location "305727.906 354940.219 21419.924"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Weapon_M1_Garand 1 Location "305727.906 354940.219 21419.924"
 #spawnitem Military_Shirt_04 1 Location "314420.719 352656.875 21389.691"
 #spawnitem MilitaryPants_05 1 Location "314420.719 352656.875 21389.691"
@@ -5308,7 +5308,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Ammo_Crossbow_Bolt_Explosive 5 Location "304563.063 353872.938 21918.504"
 #spawnitem BP_Ammo_Crossbow_Bolt_Carbon 10 Location "304563.063 353872.938 21918.504"
 #spawnitem BP_Weapon_BlackHawk_Crossbow 1 Location "304563.063 353872.938 21918.504"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Weapon_MP5 1 Location "323053.781 364071.156 21225.539"
 #spawnitem BP_Magazine_MP5 2 Location "323053.781 364071.156 21225.539"
 #spawnitem Cal_9mm_AP 3 Location "323053.781 364071.156 21225.539"
@@ -5632,7 +5632,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem Cal_5_56x45mm 2 Location "300697.281 408149.875 21895.859"
 #spawnitem BP_Weapon_M16A4 1 Location "300697.281 408149.875 21895.859"
 #spawnitem BP_WeaponSuppressor_Handgun 1 Location "306803.969 407172.625 21949.418"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Magazine_M9 2 Location "306803.969 407172.625 21949.418"
 #spawnitem Cal_9mm 1 Location "306803.969 407172.625 21949.418"
 #spawnitem BP_Weapon_M9 1 Location "306803.969 407172.625 21949.418"
@@ -6008,7 +6008,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Magazine_MP5 2 Location "346829.938 327580.688 21711.949"
 #spawnitem Cal_9mm_AP 3 Location "346829.938 327580.688 21711.949"
 #spawnitem BP_WeaponSights_V3_Holographic 1 Location "346829.938 327580.688 21711.949"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_MP5_Rail_Short 1 Location "346829.938 327580.688 21711.949"
 #spawnitem Military_Shirt_02 1 Location "351204.750 366453.813 20682.857"
 #spawnitem MilitaryPants_03 1 Location "351204.750 366453.813 20682.857"
@@ -6384,7 +6384,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem Combat_Helmet_03 1 Location "330455.281 378127.344 21713.652"
 #spawnItem Hiking_Boots_04 1 Location "330455.281 378127.344 21713.652"
 #spawnitem Armor_Tactical_Vest_04 1 Location "330455.281 378127.344 21713.652"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem Backpack_02_06 1 Location "330455.281 378127.344 21713.652"
 #spawnitem BP_WeaponSights_V3_Holographic 1 Location "331874.094 373360.375 21865.627"
 #spawnitem WeaponScope_ACOG_01 1 Location "331874.094 373360.375 21865.627"
@@ -6756,7 +6756,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_WeaponSights_V3_Holographic 1 Location "343903.844 367044.500 20840.510"
 #spawnitem WeaponScope_ACOG_01 1 Location "343903.844 367044.500 20840.510"
 #spawnitem BP_Magazine_UMP45 2 Location "343903.844 367044.500 20840.510"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem Cal_45 2 Location "343903.844 367044.500 20840.510"
 #spawnitem BPC_Weapon_UMP45 1 Location "343903.844 367044.500 20840.510"
 #spawnitem 12_Gauge_Slug 2 Location "334949.625 364101.344 21084.625"
@@ -7000,7 +7000,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_ScopeRail_AK47 1 Location "403364.656 551604.625 15675.773"
 #spawnitem BP_Magazine_AKS_74U 2 Location "403364.656 551604.625 15675.773"
 #spawnitem Cal_5_45x39mm 2 Location "403364.656 551604.625 15675.773"
-Join our discord @ https://discord.gg/KrTfje2SWP
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem WeaponScope_ACOG_01 1 Location "404016.000 552716.250 15660.978"
 #spawnitem BP_ScopeRail_AK47 1 Location "404016.000 552716.250 15660.978"
 #spawnitem BP_Magazine_AS_Val 2 Location "404016.000 552716.250 15660.978"
@@ -7106,7 +7106,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 
 
 
-
+#Announce Join our discord @ https://discord.gg/KrTfje2SWP
 
 
 
