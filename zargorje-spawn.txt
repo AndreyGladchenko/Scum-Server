@@ -268,7 +268,7 @@ Join our discord @ https://discord.gg/KrTfje2SWP
 #spawnitem BP_Magazine_M1911 2 Location "155852.328 49360.813 30394.186"
 #spawnitem BPC_Weapon_M1911_JayW 1 Location "155852.328 49360.813 30394.186"
 #spawnitem Cal_45 2 Location "155852.328 49360.813 30394.186"
-#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location v
+#spawnitem BPC_Tactical_Handgun_Holster_02 1 Location "155852.328 49360.813 30394.186"
 #spawnItem Waist_Bag_Small_01 1 Location "155852.328 49360.813 30394.186"
 #spawnitem BP_Weapon_AKS_74U 1 Location "157795.984 54022.883 30371.424"
 #spawnitem BP_WeaponSights_RedDot_CA401B 1 Location "157795.984 54022.883 30371.424"
